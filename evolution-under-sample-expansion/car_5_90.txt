@@ -1,0 +1,519 @@
+Instances to explain: 276 1167 1646 1567 130 525 243 1019 1565 925 973 1343 782 1628 433 194 1009 59 807 896 1260 1581 1592 5 1444 924 554 1499 1671 476 1230 214 662 65 47 55 1358 1132 20 798 1437 456 885 1523 66 1109 469 1609 921 1046 1166 494 728 489 1429 463 1612 974 615 48 881 1183 1364 216 395 1337 1540 633 261 1585 710 1538 1516 1070 901 1086 1432 405 650 608 1261 1072 1085 842 1268 79
+Instances in the sample: 276 1167 1646 1567 130 525 243 1019 1565 925 973 1343 782 1628 433 194 1009 59 807 896 1260 1581 1592 5 1444 924 554 1499 1671 476 1230 214 662 65 47 55 1358 1132 20 798 1437 456 885 1523 66 1109 469 1609 921 1046 1166 494 728 489 1429 463 1612 974 615 48 881 1183 1364 216 395 1337 1540 633 261 1585 710 1538 1516 1070 901 1086 1432 405 650 608 1261 1072 1085 842 1268 79 1033 523 1607 1723 867 891 1435 371 789 1189 1521 1685 1461 1603 808 188 951 1441 1105 236 1700 354 1135 851 801 1066 1604 69 1024 100 671 1542 1346 1299 1269 857 1418 370 367 1104 498 28 1706 437 1193 1211 512 889 1138 753 1282 773 1014 592 1467 1219 1355 1631 13 845 1658 1142 287 1157 1253 452 947 128 1074 806 1281 1244 442 1130 922 1088 788 928 764 4 1217 1223 1410 1388 734 1030 1363 70 515 1449 393 1252 1330 403 207 1257 574 81 1544 163 191 40 1029 35 637 568 611 254 1443 420 781 663 164 381 362 586 1222 385 1526 628 1507 1660 680 1052 1641 740 1154 1100 266 60 719 898 795 981 435 599 255 589 1719 1200 487 1426 1010 52 529 44 936 339 93 1705 375 1054 1676 1203 1615 1005 1301 521 1502 1661 1233 1069 531 1254 1553 83 938 1621 1381 757 1584 1513 1013 146 706 300 505 121 729 174 187 742 712 378 1000 1372 606 314 22 1367 102 1440 530 1392 1122 415 1724 1524 1245 101 917 486 843 245 503 1409 1664 1060 1460 473 1212 259 1649 957 723 1248 1237 45 800 1519 989 690 50 386 497 814 1404 331 839 1071 535 660 1694 241 946 1376 858 1342 1216 1339 584 168 111 218 332 425 418 1366 543 676 837 1530 1291 645 933 859 863 290 737 597 1550 1256 340 1488 1415 268 819 109 1043 190 977 373 319 877 295 1595 1525 978 200 1482 1428 578 1475 213 689 950 763 1476 1395 298 1192 716 281 125 769 32 1619 38 242 1092 306 114 496 632 1558 1117 429 309 1195 446 642 423 275 1161 1007 1453 783 1473 675 1283 840 270 559 853 115 80 27 796 1614 868 1215 1059 847 1083 173 178 864 1638 1242 308 679 585 1687 1484 1288 971 702 502 1487 567 838 547 673 994 225 770 248 1240 251 1590 942 626 1090 852 122 912 518 886 1617 841 683 940 284 1527 1710 1625 1672 258 684 614 62 685 1139 204 751 1557 201 212 68 26 825 1028 1399 1332 439 294 1424 944 223 1455 492 514 428 406 926 884 315 1480 1727 849 363 598 410 1576 98 927 1600 596 520 878 1270 1563 460 145 722 739 185 1311 1267 1608 733 1586 1296 1577 1329 31 1169 1006 507 760 1430 78 1234 1689 61 184 1062 1717 411 372 413 774 828 1187 1683 1199 519 272 699 1457 19 541 1588 967 1504 1321 678 718 960 1494 1446 674 1255 1035 1699 833 658 150 221 1559 1131 481 1562 621 966 920 930 1695 1148 504 1420 264 376 1583 1168 548 475 776 1322 667 159 1535 1226 1094 1196 1610 510 1698 133 1643 286 799 320 836 263 434 256 1394 758 1207 1362 1264 526 1040 1384 394 1547 666 369 1370 1702 1305 365 956 895 792 1209 11 605 1696 1403 75 106 779 846 657 560 935 471 644 900 1025 817 1452 549 1165 1602 1369 389 681 1263 661 949 345 87 380 43 995 447 239 1655 1241 1047 1450 1669 1181 1087 2 404 1472 1497 1171 1031 1334 1140 1652 361 1277 1293 682 12 945 1722 656 1556 1379 1041 570 1518 654 1220 14 1324 1448 1377 1144 226 1684 844 998 84 1391 533 1357 931 602 246 37 1201 1578 449 1380 1225 707 1514 1179 954 517 260 802 1458 443 848 293 813 899 91 465 904 169 1315 1051 738 132 619 127 1162 778 39 296 910 1279 1691 289 1239 166 714 1143 1246 484 1098 546 359 969 358 421 1618 600 479 135 142 1289 1517 1666 972 1204 668 866 955 1038 1356 99 311 551 1206 1361 1326 1511 1042 490 648 1133 1386 419 726 1058 744 318 909 1490 472 1637 1150 612 1352 401 474 1153 1344 451 1613 1271 64 1633 1715 1662 1180 759 593 821 1466 459 1510 508 344 143 1202 1416 310 1688 1118 862 1123 1417 277 1174 500 894 1032 305 252 1536 253 1408 870 701 603 1491 784 458 211 1427 391 1433 1351 595 137 198 441 790 636 997 189 353 95 116 1642 1208 49 1534 427 1390 76 1016 1439 1082 1670 1486 1262 907 697 1354 1725 563 230 1274 1434 341 186 453 824 478 1036 948 777 1573 336 480 491 1720 590 985 1147 1224 816 430 968 1528 552 698 1065 1276 220 438 158 104 29 1711 9 1045 692 826 1266 622 402 875 330 1650 1406 322 73 33 856 312 1468 1185 134 1250 832 566 280 172 1039 1459 672 30 90 1191 147 1172 288 108 624 265 991 205 426 72 1129 1462 302 1686 641 1571 444 1522 1044 908 756 1463 625 609 1492 1477 571 576 149 1365 1373 398 822 1015 1412 1635 1313 1505 1228 152 831 1300 987 1286 468 1680 1285 1017 1582 167 1701 639 1469 1721 176 607 412 228 351 148 506 1055 117 138 1555 224 1251 1136 1221 915 238 767 107 323 1316 88 1102 1645 327 992 1111 63 1314 693 231 640 820 217 765 96 986 157 686 804 342 687 990 313 1726 787 247 1107 646 1308 1442 550 879 897 1328 1037 1537 1272 282 347 1697 1173 1382 1481 1545 1371 1411 85 768 416 544 1001 1057 1393 880 267 1106 939 346 1561 179 124 812 1454 869 1128 810 883 980 743 906 1425 1378 17 1465 338 409 890 918 929 1599 195 1275 766 1340 1290 1048 1084 219 1634 161 383 141 1503 1400 1640 713 703 1644 983 1063 1080 1156 887 1336 1716 996 1554 1489 488 86 432 721 634 1653 387 333 555 1205 154 299 1623 775 325 610 762 199 1704 1589 234 215 652 538 1560 1310 57 1121 1496 873 669 616 1531 724 1309 1396 1127 1677 579 1506 227 793 1278 623 18 1665 1182 1622 1546 240 1280 1620 1335 129 1114 1464 15 591 965 10 388 984 1656 1026 919 1707 1325 1679 1319 1011 1483 993 431 1663 1451 462 537 818 25 1398 126 1210 1389 1327 943 58 316 317 8 1294 911 1587 923 1247 1647 1134 1317 1574 397 1673 588 257 708 269 36 321 1413 466 638 1515 229 1053 1374 524 1690 727 467 1675 914 528 1306 745 1214 501 755 594 1402 1659 874 384 1297 1533 893 725 1303 754 170 120 237 379 285 440 1350 53 193 495 304 934 1485 183 750 1218 1383 364 1611 3 177 829 1163 112 1089 450 1073 830 691 105 1284 208 1478 1108 1347 835 1681 1338 1509 250 557 1385 573 374 1002 1651 1629 1445 110 1626 461 1397 1307 182 803 279 1401 961 627 1438 1079 1067 823 271 1258 1027 233 348 815 1304 1549 457 377 1120 572 932 1639 1155 635 1096 1414 1176 499 1713 1387 735 1093 222 21 1668 1520 761 1624 604 136 1194 1456 1018 688 235 545 1158 643 630 1682 577 976 355 328 617 482 988 1333 1551 1471 140 1249 1508 1190 366 1020 664 696 1152 746 655 1186 539 1229 937 1552 1151 583 860 445 1580 455 1539 1126 1360 368 144 1298 850 1375 349 561 811 1692 1292 1236 872 303 335 360 700 601 206 1512 119 1593 485 324 631 1598 562 1422 1627 876 1159 953 7 54 888 647 210 659 805 1021 780 1569 1112 67 356 1004 1064 414 337 748 436 118 1081 203 283 326 964 1023 785 865 1709 153 1146 89 249 483 1295 1188 786 307 1101 952 24 1097 399 1177 454 959 1407 301 1648 1003 720 963 1636 695 542 1596 400 1124 556 1022 197 82 1113 962 175 334 493 422 1693 827 553 1077 41 527 1078 564 1076 540 975 209 797 1436 171 1532 747 123 1345 1145 736 1160 1178 1674 1548 1099 1479 1235 51 1331 665 982 1501 274 350 155 1302 329 1566 522 1115 741 854 677 390 382 905 1075 999 262 1474 357 670 717 1630 1703 1591 1529 16 1348 23 1616 343
+
+Instance 276:
+	Smallest cbWAXp size: 4
+	# nec: 1
+	# not nec: 3
+	# rel but not nec: 0
+
+Instance 1167:
+	Smallest cbWAXp size: 4
+	# nec: 1
+	# not nec: 4
+	# rel but not nec: 0
+
+Instance 1646:
+	Smallest cbWAXp size: 5
+	# nec: 3
+	# not nec: 3
+	# rel but not nec: 2
+
+Instance 1567:
+	Smallest cbWAXp size: 4
+	# nec: 0
+	# not nec: 3
+	# rel but not nec: 1
+
+Instance 130:
+	Smallest cbWAXp size: 4
+	# nec: 0
+	# not nec: 5
+	# rel but not nec: 1
+
+Instance 525:
+	Smallest cbWAXp size: 4
+	# nec: 2
+	# not nec: 3
+	# rel but not nec: 0
+
+Instance 243:
+	Smallest cbWAXp size: 5
+	# nec: 4
+	# not nec: 1
+	# rel but not nec: 0
+
+Instance 1019:
+	Smallest cbWAXp size: 4
+	# nec: 4
+	# not nec: 2
+	# rel but not nec: 0
+
+Instance 1565:
+	Smallest cbWAXp size: 4
+	# nec: 1
+	# not nec: 3
+	# rel but not nec: 5
+
+Instance 925:
+	Smallest cbWAXp size: 4
+	# nec: 0
+	# not nec: 4
+	# rel but not nec: 2
+
+Instance 973:
+	Smallest cbWAXp size: 4
+	# nec: 0
+	# not nec: 4
+	# rel but not nec: 2
+
+Instance 1343:
+	Smallest cbWAXp size: 4
+	# nec: 3
+	# not nec: 3
+	# rel but not nec: 0
+
+Instance 782:
+	Smallest cbWAXp size: 5
+	# nec: 4
+	# not nec: 1
+	# rel but not nec: 0
+
+Instance 1628:
+	Smallest cbWAXp size: 4
+	# nec: 1
+	# not nec: 5
+	# rel but not nec: 0
+
+Instance 433:
+	Smallest cbWAXp size: 4
+	# nec: 0
+	# not nec: 4
+	# rel but not nec: 2
+
+Instance 194:
+	Smallest cbWAXp size: 4
+	# nec: 0
+	# not nec: 5
+	# rel but not nec: 3
+
+Instance 1009:
+	Smallest cbWAXp size: 4
+	# nec: 1
+	# not nec: 4
+	# rel but not nec: 0
+
+Instance 59:
+	Smallest cbWAXp size: 4
+	# nec: 0
+	# not nec: 4
+	# rel but not nec: 1
+
+Instance 807:
+	Smallest cbWAXp size: 4
+	# nec: 3
+	# not nec: 2
+	# rel but not nec: 1
+
+Instance 896:
+	Smallest cbWAXp size: 4
+	# nec: 1
+	# not nec: 4
+	# rel but not nec: 0
+
+Instance 1260:
+	Smallest cbWAXp size: 5
+	# nec: 2
+	# not nec: 2
+	# rel but not nec: 1
+
+Instance 1581:
+	Smallest cbWAXp size: 5
+	# nec: 0
+	# not nec: 3
+	# rel but not nec: 3
+
+Instance 1592:
+	Smallest cbWAXp size: 4
+	# nec: 2
+	# not nec: 4
+	# rel but not nec: 4
+
+Instance 5:
+	Smallest cbWAXp size: 4
+	# nec: 0
+	# not nec: 4
+	# rel but not nec: 6
+
+Instance 1444:
+	Smallest cbWAXp size: 5
+	# nec: 1
+	# not nec: 2
+	# rel but not nec: 0
+
+Instance 924:
+	Smallest cbWAXp size: 4
+	# nec: 1
+	# not nec: 5
+	# rel but not nec: 0
+
+Instance 554:
+	Smallest cbWAXp size: 5
+	# nec: 4
+	# not nec: 2
+	# rel but not nec: 0
+
+Instance 1499:
+	Smallest cbWAXp size: 5
+	# nec: 2
+	# not nec: 3
+	# rel but not nec: 4
+
+Instance 1671:
+	Smallest cbWAXp size: 4
+	# nec: 2
+	# not nec: 4
+	# rel but not nec: 4
+
+Instance 476:
+	Smallest cbWAXp size: 4
+	# nec: 2
+	# not nec: 2
+	# rel but not nec: 0
+
+Instance 1230:
+	Smallest cbWAXp size: 5
+	# nec: 2
+	# not nec: 3
+	# rel but not nec: 2
+
+Instance 214:
+	Smallest cbWAXp size: 4
+	# nec: 0
+	# not nec: 4
+	# rel but not nec: 3
+
+Instance 662:
+	Smallest cbWAXp size: 5
+	# nec: 4
+	# not nec: 1
+	# rel but not nec: 0
+
+Instance 65:
+	Smallest cbWAXp size: 5
+	# nec: 0
+	# not nec: 3
+	# rel but not nec: 4
+
+Instance 47:
+	Smallest cbWAXp size: 4
+	# nec: 0
+	# not nec: 4
+	# rel but not nec: 4
+
+Instance 55:
+	Smallest cbWAXp size: 4
+	# nec: 0
+	# not nec: 4
+	# rel but not nec: 1
+
+Instance 1358:
+	Smallest cbWAXp size: 4
+	# nec: 1
+	# not nec: 4
+	# rel but not nec: 0
+
+Instance 1132:
+	Smallest cbWAXp size: 4
+	# nec: 1
+	# not nec: 3
+	# rel but not nec: 0
+
+Instance 20:
+	Smallest cbWAXp size: 4
+	# nec: 0
+	# not nec: 5
+	# rel but not nec: 6
+
+Instance 798:
+	Smallest cbWAXp size: 5
+	# nec: 3
+	# not nec: 2
+	# rel but not nec: 0
+
+Instance 1437:
+	Smallest cbWAXp size: 4
+	# nec: 1
+	# not nec: 5
+	# rel but not nec: 0
+
+Instance 456:
+	Smallest cbWAXp size: 4
+	# nec: 2
+	# not nec: 4
+	# rel but not nec: 0
+
+Instance 885:
+	Smallest cbWAXp size: 4
+	# nec: 3
+	# not nec: 3
+	# rel but not nec: 0
+
+Instance 1523:
+	Smallest cbWAXp size: 4
+	# nec: 4
+	# not nec: 2
+	# rel but not nec: 0
+
+Instance 66:
+	Smallest cbWAXp size: 4
+	# nec: 2
+	# not nec: 4
+	# rel but not nec: 0
+
+Instance 1109:
+	Smallest cbWAXp size: 4
+	# nec: 1
+	# not nec: 3
+	# rel but not nec: 0
+
+Instance 469:
+	Smallest cbWAXp size: 4
+	# nec: 0
+	# not nec: 5
+	# rel but not nec: 1
+
+Instance 1609:
+	Smallest cbWAXp size: 4
+	# nec: 1
+	# not nec: 4
+	# rel but not nec: 0
+
+Instance 921:
+	Smallest cbWAXp size: 4
+	# nec: 1
+	# not nec: 3
+	# rel but not nec: 0
+
+Instance 1046:
+	Smallest cbWAXp size: 4
+	# nec: 4
+	# not nec: 2
+	# rel but not nec: 0
+
+Instance 1166:
+	Smallest cbWAXp size: 4
+	# nec: 0
+	# not nec: 5
+	# rel but not nec: 1
+
+Instance 494:
+	Smallest cbWAXp size: 4
+	# nec: 0
+	# not nec: 6
+	# rel but not nec: 3
+
+Instance 728:
+	Smallest cbWAXp size: 4
+	# nec: 4
+	# not nec: 2
+	# rel but not nec: 0
+
+Instance 489:
+	Smallest cbWAXp size: 4
+	# nec: 0
+	# not nec: 3
+	# rel but not nec: 2
+
+Instance 1429:
+	Smallest cbWAXp size: 5
+	# nec: 1
+	# not nec: 3
+	# rel but not nec: 0
+
+Instance 463:
+	Smallest cbWAXp size: 4
+	# nec: 0
+	# not nec: 5
+	# rel but not nec: 0
+
+Instance 1612:
+	Smallest cbWAXp size: 4
+	# nec: 1
+	# not nec: 4
+	# rel but not nec: 0
+
+Instance 974:
+	Smallest cbWAXp size: 4
+	# nec: 0
+	# not nec: 6
+	# rel but not nec: 5
+
+Instance 615:
+	Smallest cbWAXp size: 6
+	# nec: 5
+	# not nec: 0
+	# rel but not nec: 0
+
+Instance 48:
+	Smallest cbWAXp size: 4
+	# nec: 2
+	# not nec: 3
+	# rel but not nec: 0
+
+Instance 881:
+	Smallest cbWAXp size: 5
+	# nec: 4
+	# not nec: 2
+	# rel but not nec: 0
+
+Instance 1183:
+	Smallest cbWAXp size: 4
+	# nec: 1
+	# not nec: 5
+	# rel but not nec: 0
+
+Instance 1364:
+	Smallest cbWAXp size: 5
+	# nec: 5
+	# not nec: 1
+	# rel but not nec: 0
+
+Instance 216:
+	Smallest cbWAXp size: 4
+	# nec: 2
+	# not nec: 3
+	# rel but not nec: 0
+
+Instance 395:
+	Smallest cbWAXp size: 5
+	# nec: 4
+	# not nec: 1
+	# rel but not nec: 0
+
+Instance 1337:
+	Smallest cbWAXp size: 5
+	# nec: 5
+	# not nec: 1
+	# rel but not nec: 0
+
+Instance 1540:
+	Smallest cbWAXp size: 5
+	# nec: 0
+	# not nec: 2
+	# rel but not nec: 1
+
+Instance 633:
+	Smallest cbWAXp size: 5
+	# nec: 4
+	# not nec: 2
+	# rel but not nec: 0
+
+Instance 261:
+	Smallest cbWAXp size: 4
+	# nec: 3
+	# not nec: 2
+	# rel but not nec: 0
+
+Instance 1585:
+	Smallest cbWAXp size: 4
+	# nec: 1
+	# not nec: 5
+	# rel but not nec: 0
+
+Instance 710:
+	Smallest cbWAXp size: 5
+	# nec: 1
+	# not nec: 2
+	# rel but not nec: 0
+
+Instance 1538:
+	Smallest cbWAXp size: 4
+	# nec: 3
+	# not nec: 3
+	# rel but not nec: 2
+
+Instance 1516:
+	Smallest cbWAXp size: 4
+	# nec: 0
+	# not nec: 5
+	# rel but not nec: 2
+
+Instance 1070:
+	Smallest cbWAXp size: 5
+	# nec: 3
+	# not nec: 2
+	# rel but not nec: 1
+
+Instance 901:
+	Smallest cbWAXp size: 4
+	# nec: 0
+	# not nec: 4
+	# rel but not nec: 1
+
+Instance 1086:
+	Smallest cbWAXp size: 4
+	# nec: 1
+	# not nec: 5
+	# rel but not nec: 0
+
+Instance 1432:
+	Smallest cbWAXp size: 4
+	# nec: 0
+	# not nec: 5
+	# rel but not nec: 2
+
+Instance 405:
+	Smallest cbWAXp size: 5
+	# nec: 3
+	# not nec: 3
+	# rel but not nec: 2
+
+Instance 650:
+	Smallest cbWAXp size: 4
+	# nec: 0
+	# not nec: 3
+	# rel but not nec: 4
+
+Instance 608:
+	Smallest cbWAXp size: 6
+	# nec: 6
+	# not nec: 0
+	# rel but not nec: 0
+
+Instance 1261:
+	Smallest cbWAXp size: 4
+	# nec: 1
+	# not nec: 4
+	# rel but not nec: 0
+
+Instance 1072:
+	Smallest cbWAXp size: 4
+	# nec: 1
+	# not nec: 5
+	# rel but not nec: 0
+
+Instance 1085:
+	Smallest cbWAXp size: 4
+	# nec: 1
+	# not nec: 4
+	# rel but not nec: 0
+
+Instance 842:
+	Smallest cbWAXp size: 4
+	# nec: 1
+	# not nec: 5
+	# rel but not nec: 0
+
+Instance 1268:
+	Smallest cbWAXp size: 4
+	# nec: 2
+	# not nec: 3
+	# rel but not nec: 3
+
+Instance 79:
+	Smallest cbWAXp size: 4
+	# nec: 0
+	# not nec: 5
+	# rel but not nec: 3
+

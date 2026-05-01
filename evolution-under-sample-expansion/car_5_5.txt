@@ -1,0 +1,519 @@
+Instances to explain: 276 1167 1646 1567 130 525 243 1019 1565 925 973 1343 782 1628 433 194 1009 59 807 896 1260 1581 1592 5 1444 924 554 1499 1671 476 1230 214 662 65 47 55 1358 1132 20 798 1437 456 885 1523 66 1109 469 1609 921 1046 1166 494 728 489 1429 463 1612 974 615 48 881 1183 1364 216 395 1337 1540 633 261 1585 710 1538 1516 1070 901 1086 1432 405 650 608 1261 1072 1085 842 1268 79
+Instances in the sample: 276 1167 1646 1567 130 525 243 1019 1565 925 973 1343 782 1628 433 194 1009 59 807 896 1260 1581 1592 5 1444 924 554 1499 1671 476 1230 214 662 65 47 55 1358 1132 20 798 1437 456 885 1523 66 1109 469 1609 921 1046 1166 494 728 489 1429 463 1612 974 615 48 881 1183 1364 216 395 1337 1540 633 261 1585 710 1538 1516 1070 901 1086 1432 405 650 608 1261 1072 1085 842 1268 79
+
+Instance 276:
+	Smallest cbWAXp size: 6
+	# nec: 0
+	# not nec: 0
+	# rel but not nec: 0
+
+Instance 1167:
+	Smallest cbWAXp size: 6
+	# nec: 0
+	# not nec: 0
+	# rel but not nec: 0
+
+Instance 1646:
+	Smallest cbWAXp size: 6
+	# nec: 1
+	# not nec: 0
+	# rel but not nec: 0
+
+Instance 1567:
+	Smallest cbWAXp size: 6
+	# nec: 0
+	# not nec: 0
+	# rel but not nec: 0
+
+Instance 130:
+	Smallest cbWAXp size: 6
+	# nec: 0
+	# not nec: 0
+	# rel but not nec: 0
+
+Instance 525:
+	Smallest cbWAXp size: 6
+	# nec: 1
+	# not nec: 0
+	# rel but not nec: 0
+
+Instance 243:
+	Smallest cbWAXp size: 6
+	# nec: 0
+	# not nec: 0
+	# rel but not nec: 0
+
+Instance 1019:
+	Smallest cbWAXp size: 6
+	# nec: 0
+	# not nec: 0
+	# rel but not nec: 0
+
+Instance 1565:
+	Smallest cbWAXp size: 6
+	# nec: 0
+	# not nec: 0
+	# rel but not nec: 0
+
+Instance 925:
+	Smallest cbWAXp size: 6
+	# nec: 0
+	# not nec: 0
+	# rel but not nec: 0
+
+Instance 973:
+	Smallest cbWAXp size: 6
+	# nec: 0
+	# not nec: 0
+	# rel but not nec: 0
+
+Instance 1343:
+	Smallest cbWAXp size: 6
+	# nec: 0
+	# not nec: 0
+	# rel but not nec: 0
+
+Instance 782:
+	Smallest cbWAXp size: 6
+	# nec: 0
+	# not nec: 0
+	# rel but not nec: 0
+
+Instance 1628:
+	Smallest cbWAXp size: 6
+	# nec: 1
+	# not nec: 0
+	# rel but not nec: 0
+
+Instance 433:
+	Smallest cbWAXp size: 6
+	# nec: 0
+	# not nec: 0
+	# rel but not nec: 0
+
+Instance 194:
+	Smallest cbWAXp size: 6
+	# nec: 0
+	# not nec: 0
+	# rel but not nec: 0
+
+Instance 1009:
+	Smallest cbWAXp size: 6
+	# nec: 0
+	# not nec: 0
+	# rel but not nec: 0
+
+Instance 59:
+	Smallest cbWAXp size: 6
+	# nec: 0
+	# not nec: 0
+	# rel but not nec: 0
+
+Instance 807:
+	Smallest cbWAXp size: 6
+	# nec: 0
+	# not nec: 0
+	# rel but not nec: 0
+
+Instance 896:
+	Smallest cbWAXp size: 6
+	# nec: 0
+	# not nec: 0
+	# rel but not nec: 0
+
+Instance 1260:
+	Smallest cbWAXp size: 6
+	# nec: 0
+	# not nec: 0
+	# rel but not nec: 0
+
+Instance 1581:
+	Smallest cbWAXp size: 6
+	# nec: 0
+	# not nec: 0
+	# rel but not nec: 0
+
+Instance 1592:
+	Smallest cbWAXp size: 6
+	# nec: 0
+	# not nec: 0
+	# rel but not nec: 0
+
+Instance 5:
+	Smallest cbWAXp size: 6
+	# nec: 0
+	# not nec: 0
+	# rel but not nec: 0
+
+Instance 1444:
+	Smallest cbWAXp size: 6
+	# nec: 0
+	# not nec: 0
+	# rel but not nec: 0
+
+Instance 924:
+	Smallest cbWAXp size: 6
+	# nec: 0
+	# not nec: 0
+	# rel but not nec: 0
+
+Instance 554:
+	Smallest cbWAXp size: 6
+	# nec: 1
+	# not nec: 0
+	# rel but not nec: 0
+
+Instance 1499:
+	Smallest cbWAXp size: 6
+	# nec: 0
+	# not nec: 0
+	# rel but not nec: 0
+
+Instance 1671:
+	Smallest cbWAXp size: 6
+	# nec: 0
+	# not nec: 0
+	# rel but not nec: 0
+
+Instance 476:
+	Smallest cbWAXp size: 6
+	# nec: 0
+	# not nec: 0
+	# rel but not nec: 0
+
+Instance 1230:
+	Smallest cbWAXp size: 6
+	# nec: 0
+	# not nec: 0
+	# rel but not nec: 0
+
+Instance 214:
+	Smallest cbWAXp size: 6
+	# nec: 0
+	# not nec: 0
+	# rel but not nec: 0
+
+Instance 662:
+	Smallest cbWAXp size: 6
+	# nec: 0
+	# not nec: 0
+	# rel but not nec: 0
+
+Instance 65:
+	Smallest cbWAXp size: 6
+	# nec: 0
+	# not nec: 0
+	# rel but not nec: 0
+
+Instance 47:
+	Smallest cbWAXp size: 6
+	# nec: 0
+	# not nec: 0
+	# rel but not nec: 0
+
+Instance 55:
+	Smallest cbWAXp size: 6
+	# nec: 0
+	# not nec: 0
+	# rel but not nec: 0
+
+Instance 1358:
+	Smallest cbWAXp size: 6
+	# nec: 0
+	# not nec: 0
+	# rel but not nec: 0
+
+Instance 1132:
+	Smallest cbWAXp size: 6
+	# nec: 0
+	# not nec: 0
+	# rel but not nec: 0
+
+Instance 20:
+	Smallest cbWAXp size: 6
+	# nec: 0
+	# not nec: 0
+	# rel but not nec: 0
+
+Instance 798:
+	Smallest cbWAXp size: 6
+	# nec: 0
+	# not nec: 0
+	# rel but not nec: 0
+
+Instance 1437:
+	Smallest cbWAXp size: 6
+	# nec: 0
+	# not nec: 0
+	# rel but not nec: 0
+
+Instance 456:
+	Smallest cbWAXp size: 6
+	# nec: 0
+	# not nec: 0
+	# rel but not nec: 0
+
+Instance 885:
+	Smallest cbWAXp size: 6
+	# nec: 0
+	# not nec: 0
+	# rel but not nec: 0
+
+Instance 1523:
+	Smallest cbWAXp size: 6
+	# nec: 0
+	# not nec: 0
+	# rel but not nec: 0
+
+Instance 66:
+	Smallest cbWAXp size: 6
+	# nec: 0
+	# not nec: 0
+	# rel but not nec: 0
+
+Instance 1109:
+	Smallest cbWAXp size: 6
+	# nec: 0
+	# not nec: 0
+	# rel but not nec: 0
+
+Instance 469:
+	Smallest cbWAXp size: 6
+	# nec: 0
+	# not nec: 0
+	# rel but not nec: 0
+
+Instance 1609:
+	Smallest cbWAXp size: 6
+	# nec: 0
+	# not nec: 0
+	# rel but not nec: 0
+
+Instance 921:
+	Smallest cbWAXp size: 6
+	# nec: 0
+	# not nec: 0
+	# rel but not nec: 0
+
+Instance 1046:
+	Smallest cbWAXp size: 6
+	# nec: 0
+	# not nec: 0
+	# rel but not nec: 0
+
+Instance 1166:
+	Smallest cbWAXp size: 6
+	# nec: 0
+	# not nec: 0
+	# rel but not nec: 0
+
+Instance 494:
+	Smallest cbWAXp size: 6
+	# nec: 0
+	# not nec: 0
+	# rel but not nec: 0
+
+Instance 728:
+	Smallest cbWAXp size: 6
+	# nec: 1
+	# not nec: 0
+	# rel but not nec: 0
+
+Instance 489:
+	Smallest cbWAXp size: 6
+	# nec: 0
+	# not nec: 0
+	# rel but not nec: 0
+
+Instance 1429:
+	Smallest cbWAXp size: 6
+	# nec: 0
+	# not nec: 0
+	# rel but not nec: 0
+
+Instance 463:
+	Smallest cbWAXp size: 6
+	# nec: 0
+	# not nec: 0
+	# rel but not nec: 0
+
+Instance 1612:
+	Smallest cbWAXp size: 6
+	# nec: 0
+	# not nec: 0
+	# rel but not nec: 0
+
+Instance 974:
+	Smallest cbWAXp size: 6
+	# nec: 0
+	# not nec: 0
+	# rel but not nec: 0
+
+Instance 615:
+	Smallest cbWAXp size: 6
+	# nec: 0
+	# not nec: 0
+	# rel but not nec: 0
+
+Instance 48:
+	Smallest cbWAXp size: 6
+	# nec: 0
+	# not nec: 0
+	# rel but not nec: 0
+
+Instance 881:
+	Smallest cbWAXp size: 6
+	# nec: 0
+	# not nec: 0
+	# rel but not nec: 0
+
+Instance 1183:
+	Smallest cbWAXp size: 6
+	# nec: 0
+	# not nec: 0
+	# rel but not nec: 0
+
+Instance 1364:
+	Smallest cbWAXp size: 6
+	# nec: 1
+	# not nec: 0
+	# rel but not nec: 0
+
+Instance 216:
+	Smallest cbWAXp size: 6
+	# nec: 0
+	# not nec: 0
+	# rel but not nec: 0
+
+Instance 395:
+	Smallest cbWAXp size: 6
+	# nec: 0
+	# not nec: 0
+	# rel but not nec: 0
+
+Instance 1337:
+	Smallest cbWAXp size: 6
+	# nec: 1
+	# not nec: 0
+	# rel but not nec: 0
+
+Instance 1540:
+	Smallest cbWAXp size: 6
+	# nec: 0
+	# not nec: 0
+	# rel but not nec: 0
+
+Instance 633:
+	Smallest cbWAXp size: 6
+	# nec: 1
+	# not nec: 0
+	# rel but not nec: 0
+
+Instance 261:
+	Smallest cbWAXp size: 6
+	# nec: 0
+	# not nec: 0
+	# rel but not nec: 0
+
+Instance 1585:
+	Smallest cbWAXp size: 6
+	# nec: 0
+	# not nec: 0
+	# rel but not nec: 0
+
+Instance 710:
+	Smallest cbWAXp size: 6
+	# nec: 1
+	# not nec: 0
+	# rel but not nec: 0
+
+Instance 1538:
+	Smallest cbWAXp size: 6
+	# nec: 0
+	# not nec: 0
+	# rel but not nec: 0
+
+Instance 1516:
+	Smallest cbWAXp size: 6
+	# nec: 0
+	# not nec: 0
+	# rel but not nec: 0
+
+Instance 1070:
+	Smallest cbWAXp size: 6
+	# nec: 0
+	# not nec: 0
+	# rel but not nec: 0
+
+Instance 901:
+	Smallest cbWAXp size: 6
+	# nec: 0
+	# not nec: 0
+	# rel but not nec: 0
+
+Instance 1086:
+	Smallest cbWAXp size: 6
+	# nec: 0
+	# not nec: 0
+	# rel but not nec: 0
+
+Instance 1432:
+	Smallest cbWAXp size: 6
+	# nec: 0
+	# not nec: 0
+	# rel but not nec: 0
+
+Instance 405:
+	Smallest cbWAXp size: 6
+	# nec: 0
+	# not nec: 0
+	# rel but not nec: 0
+
+Instance 650:
+	Smallest cbWAXp size: 6
+	# nec: 0
+	# not nec: 0
+	# rel but not nec: 0
+
+Instance 608:
+	Smallest cbWAXp size: 6
+	# nec: 1
+	# not nec: 0
+	# rel but not nec: 0
+
+Instance 1261:
+	Smallest cbWAXp size: 6
+	# nec: 0
+	# not nec: 0
+	# rel but not nec: 0
+
+Instance 1072:
+	Smallest cbWAXp size: 6
+	# nec: 0
+	# not nec: 0
+	# rel but not nec: 0
+
+Instance 1085:
+	Smallest cbWAXp size: 6
+	# nec: 0
+	# not nec: 0
+	# rel but not nec: 0
+
+Instance 842:
+	Smallest cbWAXp size: 6
+	# nec: 0
+	# not nec: 0
+	# rel but not nec: 0
+
+Instance 1268:
+	Smallest cbWAXp size: 6
+	# nec: 0
+	# not nec: 0
+	# rel but not nec: 0
+
+Instance 79:
+	Smallest cbWAXp size: 6
+	# nec: 0
+	# not nec: 0
+	# rel but not nec: 0
+

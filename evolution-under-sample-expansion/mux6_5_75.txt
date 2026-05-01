@@ -1,0 +1,21 @@
+Instances to explain: 18 38 57
+Instances in the sample: 18 38 57 54 51 5 19 9 36 58 33 37 50 29 16 8 43 2 34 41 59 1 45 26 23 63 12 35 4 6 7 3 52 47 20 31 56 10 44 24 42 48 55 25 39 27 28 61
+
+Instance 18:
+	Smallest cbWAXp size: 4
+	# nec: 2
+	# not nec: 3
+	# rel but not nec: 1
+
+Instance 38:
+	Smallest cbWAXp size: 4
+	# nec: 2
+	# not nec: 2
+	# rel but not nec: 1
+
+Instance 57:
+	Smallest cbWAXp size: 4
+	# nec: 1
+	# not nec: 2
+	# rel but not nec: 2
+

@@ -1,0 +1,12096 @@
+Instance 1:
+	# cbWAXps: 52
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 4
+
+Instance 2:
+	# cbWAXps: 44
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 5
+
+Instance 3:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 4:
+	# cbWAXps: 52
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 4
+
+Instance 5:
+	# cbWAXps: 42
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 6
+
+Instance 6:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 7:
+	# cbWAXps: 52
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 4
+
+Instance 8:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 9:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 10:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 11:
+	# cbWAXps: 24
+	Smallest size: 2
+	# nec: 0
+	# not nec: 6
+	# rel: 4
+
+Instance 12:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 13:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 14:
+	# cbWAXps: 20
+	Smallest size: 2
+	# nec: 0
+	# not nec: 6
+	# rel: 5
+
+Instance 15:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 16:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 17:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 18:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 19:
+	# cbWAXps: 43
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 6
+
+Instance 20:
+	# cbWAXps: 28
+	Smallest size: 2
+	# nec: 0
+	# not nec: 6
+	# rel: 6
+
+Instance 21:
+	# cbWAXps: 22
+	Smallest size: 2
+	# nec: 0
+	# not nec: 6
+	# rel: 5
+
+Instance 22:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 23:
+	# cbWAXps: 20
+	Smallest size: 2
+	# nec: 0
+	# not nec: 6
+	# rel: 5
+
+Instance 24:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 25:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 26:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 27:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 28:
+	# cbWAXps: 52
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 4
+
+Instance 29:
+	# cbWAXps: 44
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 5
+
+Instance 30:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 31:
+	# cbWAXps: 52
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 4
+
+Instance 32:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 33:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 34:
+	# cbWAXps: 52
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 4
+
+Instance 35:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 36:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 37:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 38:
+	# cbWAXps: 24
+	Smallest size: 2
+	# nec: 0
+	# not nec: 6
+	# rel: 4
+
+Instance 39:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 40:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 41:
+	# cbWAXps: 18
+	Smallest size: 2
+	# nec: 0
+	# not nec: 6
+	# rel: 6
+
+Instance 42:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 43:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 44:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 45:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 46:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 47:
+	# cbWAXps: 24
+	Smallest size: 2
+	# nec: 0
+	# not nec: 6
+	# rel: 4
+
+Instance 48:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 49:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 50:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 51:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 52:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 53:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 54:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 55:
+	# cbWAXps: 52
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 4
+
+Instance 56:
+	# cbWAXps: 44
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 5
+
+Instance 57:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 58:
+	# cbWAXps: 52
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 4
+
+Instance 59:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 60:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 61:
+	# cbWAXps: 52
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 4
+
+Instance 62:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 63:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 64:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 65:
+	# cbWAXps: 24
+	Smallest size: 2
+	# nec: 0
+	# not nec: 6
+	# rel: 4
+
+Instance 66:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 67:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 68:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 69:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 70:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 71:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 72:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 73:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 74:
+	# cbWAXps: 24
+	Smallest size: 2
+	# nec: 0
+	# not nec: 6
+	# rel: 4
+
+Instance 75:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 76:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 77:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 78:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 79:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 80:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 81:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 82:
+	# cbWAXps: 52
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 4
+
+Instance 83:
+	# cbWAXps: 44
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 5
+
+Instance 84:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 85:
+	# cbWAXps: 52
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 4
+
+Instance 86:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 87:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 88:
+	# cbWAXps: 52
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 4
+
+Instance 89:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 90:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 91:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 92:
+	# cbWAXps: 24
+	Smallest size: 2
+	# nec: 0
+	# not nec: 6
+	# rel: 4
+
+Instance 93:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 94:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 95:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 96:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 97:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 98:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 99:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 100:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 101:
+	# cbWAXps: 24
+	Smallest size: 2
+	# nec: 0
+	# not nec: 6
+	# rel: 4
+
+Instance 102:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 103:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 104:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 105:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 106:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 107:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 108:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 109:
+	# cbWAXps: 52
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 4
+
+Instance 110:
+	# cbWAXps: 42
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 5
+
+Instance 111:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 112:
+	# cbWAXps: 52
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 4
+
+Instance 113:
+	# cbWAXps: 41
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 6
+
+Instance 114:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 115:
+	# cbWAXps: 52
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 4
+
+Instance 116:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 117:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 118:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 119:
+	# cbWAXps: 20
+	Smallest size: 2
+	# nec: 1
+	# not nec: 5
+	# rel: 4
+
+Instance 120:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 121:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 122:
+	# cbWAXps: 18
+	Smallest size: 2
+	# nec: 1
+	# not nec: 5
+	# rel: 5
+
+Instance 123:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 124:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 125:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 126:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 127:
+	# cbWAXps: 43
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 6
+
+Instance 128:
+	# cbWAXps: 25
+	Smallest size: 2
+	# nec: 0
+	# not nec: 6
+	# rel: 6
+
+Instance 129:
+	# cbWAXps: 22
+	Smallest size: 2
+	# nec: 0
+	# not nec: 6
+	# rel: 5
+
+Instance 130:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 131:
+	# cbWAXps: 18
+	Smallest size: 2
+	# nec: 1
+	# not nec: 5
+	# rel: 5
+
+Instance 132:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 133:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 134:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 135:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 136:
+	# cbWAXps: 52
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 4
+
+Instance 137:
+	# cbWAXps: 42
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 5
+
+Instance 138:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 139:
+	# cbWAXps: 52
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 4
+
+Instance 140:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 141:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 142:
+	# cbWAXps: 52
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 4
+
+Instance 143:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 144:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 145:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 146:
+	# cbWAXps: 20
+	Smallest size: 2
+	# nec: 1
+	# not nec: 5
+	# rel: 4
+
+Instance 147:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 148:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 149:
+	# cbWAXps: 17
+	Smallest size: 2
+	# nec: 1
+	# not nec: 5
+	# rel: 6
+
+Instance 150:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 151:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 152:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 153:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 154:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 155:
+	# cbWAXps: 20
+	Smallest size: 2
+	# nec: 1
+	# not nec: 5
+	# rel: 4
+
+Instance 156:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 157:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 158:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 159:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 160:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 161:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 162:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 163:
+	# cbWAXps: 52
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 4
+
+Instance 164:
+	# cbWAXps: 42
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 5
+
+Instance 165:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 166:
+	# cbWAXps: 52
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 4
+
+Instance 167:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 168:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 169:
+	# cbWAXps: 52
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 4
+
+Instance 170:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 171:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 172:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 173:
+	# cbWAXps: 20
+	Smallest size: 2
+	# nec: 1
+	# not nec: 5
+	# rel: 4
+
+Instance 174:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 175:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 176:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 177:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 178:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 179:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 180:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 181:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 182:
+	# cbWAXps: 20
+	Smallest size: 2
+	# nec: 1
+	# not nec: 5
+	# rel: 4
+
+Instance 183:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 184:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 185:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 186:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 187:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 188:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 189:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 190:
+	# cbWAXps: 52
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 4
+
+Instance 191:
+	# cbWAXps: 42
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 5
+
+Instance 192:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 193:
+	# cbWAXps: 52
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 4
+
+Instance 194:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 195:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 196:
+	# cbWAXps: 52
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 4
+
+Instance 197:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 198:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 199:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 200:
+	# cbWAXps: 20
+	Smallest size: 2
+	# nec: 1
+	# not nec: 5
+	# rel: 4
+
+Instance 201:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 202:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 203:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 204:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 205:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 206:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 207:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 208:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 209:
+	# cbWAXps: 20
+	Smallest size: 2
+	# nec: 1
+	# not nec: 5
+	# rel: 4
+
+Instance 210:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 211:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 212:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 213:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 214:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 215:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 216:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 217:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 218:
+	# cbWAXps: 36
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 4
+
+Instance 219:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 220:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 221:
+	# cbWAXps: 34
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 5
+
+Instance 222:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 223:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 224:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 225:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 226:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 227:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 228:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 229:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 230:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 231:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 232:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 233:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 234:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 235:
+	# cbWAXps: 36
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 4
+
+Instance 236:
+	# cbWAXps: 14
+	Smallest size: 3
+	# nec: 1
+	# not nec: 5
+	# rel: 5
+
+Instance 237:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 238:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 239:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 240:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 241:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 242:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 243:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 244:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 245:
+	# cbWAXps: 36
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 4
+
+Instance 246:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 247:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 248:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 249:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 250:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 251:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 252:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 253:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 254:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 255:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 256:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 257:
+	# cbWAXps: 2
+	Smallest size: 5
+	# nec: 5
+	# not nec: 1
+	# rel: 5
+
+Instance 258:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 259:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 260:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 261:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 262:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 263:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 264:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 265:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 266:
+	# cbWAXps: 2
+	Smallest size: 5
+	# nec: 5
+	# not nec: 1
+	# rel: 5
+
+Instance 267:
+	# cbWAXps: 6
+	Smallest size: 4
+	# nec: 3
+	# not nec: 3
+	# rel: 5
+
+Instance 268:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 269:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 270:
+	# cbWAXps: 6
+	Smallest size: 4
+	# nec: 3
+	# not nec: 3
+	# rel: 5
+
+Instance 271:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 272:
+	# cbWAXps: 36
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 4
+
+Instance 273:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 274:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 275:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 276:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 277:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 278:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 279:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 280:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 281:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 282:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 283:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 284:
+	# cbWAXps: 2
+	Smallest size: 5
+	# nec: 5
+	# not nec: 1
+	# rel: 5
+
+Instance 285:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 286:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 287:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 288:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 289:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 290:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 291:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 292:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 293:
+	# cbWAXps: 2
+	Smallest size: 5
+	# nec: 5
+	# not nec: 1
+	# rel: 5
+
+Instance 294:
+	# cbWAXps: 6
+	Smallest size: 4
+	# nec: 3
+	# not nec: 3
+	# rel: 5
+
+Instance 295:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 296:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 297:
+	# cbWAXps: 6
+	Smallest size: 4
+	# nec: 3
+	# not nec: 3
+	# rel: 5
+
+Instance 298:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 299:
+	# cbWAXps: 36
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 4
+
+Instance 300:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 301:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 302:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 303:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 304:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 305:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 306:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 307:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 308:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 309:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 310:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 311:
+	# cbWAXps: 2
+	Smallest size: 5
+	# nec: 5
+	# not nec: 1
+	# rel: 5
+
+Instance 312:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 313:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 314:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 315:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 316:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 317:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 318:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 319:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 320:
+	# cbWAXps: 2
+	Smallest size: 5
+	# nec: 5
+	# not nec: 1
+	# rel: 5
+
+Instance 321:
+	# cbWAXps: 6
+	Smallest size: 4
+	# nec: 3
+	# not nec: 3
+	# rel: 5
+
+Instance 322:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 323:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 324:
+	# cbWAXps: 6
+	Smallest size: 4
+	# nec: 3
+	# not nec: 3
+	# rel: 5
+
+Instance 325:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 326:
+	# cbWAXps: 36
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 4
+
+Instance 327:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 328:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 329:
+	# cbWAXps: 34
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 5
+
+Instance 330:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 331:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 332:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 333:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 334:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 335:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 336:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 337:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 338:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 339:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 340:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 341:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 342:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 343:
+	# cbWAXps: 36
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 4
+
+Instance 344:
+	# cbWAXps: 14
+	Smallest size: 3
+	# nec: 1
+	# not nec: 5
+	# rel: 5
+
+Instance 345:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 346:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 347:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 348:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 349:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 350:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 351:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 352:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 353:
+	# cbWAXps: 36
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 4
+
+Instance 354:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 355:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 356:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 357:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 358:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 359:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 360:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 361:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 362:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 363:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 364:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 365:
+	# cbWAXps: 2
+	Smallest size: 5
+	# nec: 5
+	# not nec: 1
+	# rel: 5
+
+Instance 366:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 367:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 368:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 369:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 370:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 371:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 372:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 373:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 374:
+	# cbWAXps: 2
+	Smallest size: 5
+	# nec: 5
+	# not nec: 1
+	# rel: 5
+
+Instance 375:
+	# cbWAXps: 6
+	Smallest size: 4
+	# nec: 3
+	# not nec: 3
+	# rel: 5
+
+Instance 376:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 377:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 378:
+	# cbWAXps: 6
+	Smallest size: 4
+	# nec: 3
+	# not nec: 3
+	# rel: 5
+
+Instance 379:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 380:
+	# cbWAXps: 36
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 4
+
+Instance 381:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 382:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 383:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 384:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 385:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 386:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 387:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 388:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 389:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 390:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 391:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 392:
+	# cbWAXps: 2
+	Smallest size: 5
+	# nec: 5
+	# not nec: 1
+	# rel: 5
+
+Instance 393:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 394:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 395:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 396:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 397:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 398:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 399:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 400:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 401:
+	# cbWAXps: 2
+	Smallest size: 5
+	# nec: 5
+	# not nec: 1
+	# rel: 5
+
+Instance 402:
+	# cbWAXps: 6
+	Smallest size: 4
+	# nec: 3
+	# not nec: 3
+	# rel: 5
+
+Instance 403:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 404:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 405:
+	# cbWAXps: 6
+	Smallest size: 4
+	# nec: 3
+	# not nec: 3
+	# rel: 5
+
+Instance 406:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 407:
+	# cbWAXps: 36
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 4
+
+Instance 408:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 409:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 410:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 411:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 412:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 413:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 414:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 415:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 416:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 417:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 418:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 419:
+	# cbWAXps: 2
+	Smallest size: 5
+	# nec: 5
+	# not nec: 1
+	# rel: 5
+
+Instance 420:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 421:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 422:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 423:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 424:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 425:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 426:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 427:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 428:
+	# cbWAXps: 2
+	Smallest size: 5
+	# nec: 5
+	# not nec: 1
+	# rel: 5
+
+Instance 429:
+	# cbWAXps: 6
+	Smallest size: 4
+	# nec: 3
+	# not nec: 3
+	# rel: 5
+
+Instance 430:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 431:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 432:
+	# cbWAXps: 6
+	Smallest size: 4
+	# nec: 3
+	# not nec: 3
+	# rel: 5
+
+Instance 433:
+	# cbWAXps: 52
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 4
+
+Instance 434:
+	# cbWAXps: 44
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 5
+
+Instance 435:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 436:
+	# cbWAXps: 52
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 4
+
+Instance 437:
+	# cbWAXps: 42
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 6
+
+Instance 438:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 439:
+	# cbWAXps: 52
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 4
+
+Instance 440:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 441:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 442:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 443:
+	# cbWAXps: 24
+	Smallest size: 2
+	# nec: 0
+	# not nec: 6
+	# rel: 4
+
+Instance 444:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 445:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 446:
+	# cbWAXps: 20
+	Smallest size: 2
+	# nec: 0
+	# not nec: 6
+	# rel: 5
+
+Instance 447:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 448:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 449:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 450:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 451:
+	# cbWAXps: 43
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 6
+
+Instance 452:
+	# cbWAXps: 28
+	Smallest size: 2
+	# nec: 0
+	# not nec: 6
+	# rel: 6
+
+Instance 453:
+	# cbWAXps: 22
+	Smallest size: 2
+	# nec: 0
+	# not nec: 6
+	# rel: 5
+
+Instance 454:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 455:
+	# cbWAXps: 20
+	Smallest size: 2
+	# nec: 0
+	# not nec: 6
+	# rel: 5
+
+Instance 456:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 457:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 458:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 459:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 460:
+	# cbWAXps: 52
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 4
+
+Instance 461:
+	# cbWAXps: 44
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 5
+
+Instance 462:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 463:
+	# cbWAXps: 52
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 4
+
+Instance 464:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 465:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 466:
+	# cbWAXps: 52
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 4
+
+Instance 467:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 468:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 469:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 470:
+	# cbWAXps: 24
+	Smallest size: 2
+	# nec: 0
+	# not nec: 6
+	# rel: 4
+
+Instance 471:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 472:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 473:
+	# cbWAXps: 18
+	Smallest size: 2
+	# nec: 0
+	# not nec: 6
+	# rel: 6
+
+Instance 474:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 475:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 476:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 477:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 478:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 479:
+	# cbWAXps: 24
+	Smallest size: 2
+	# nec: 0
+	# not nec: 6
+	# rel: 4
+
+Instance 480:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 481:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 482:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 483:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 484:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 485:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 486:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 487:
+	# cbWAXps: 52
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 4
+
+Instance 488:
+	# cbWAXps: 44
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 5
+
+Instance 489:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 490:
+	# cbWAXps: 52
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 4
+
+Instance 491:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 492:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 493:
+	# cbWAXps: 52
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 4
+
+Instance 494:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 495:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 496:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 497:
+	# cbWAXps: 24
+	Smallest size: 2
+	# nec: 0
+	# not nec: 6
+	# rel: 4
+
+Instance 498:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 499:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 500:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 501:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 502:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 503:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 504:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 505:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 506:
+	# cbWAXps: 24
+	Smallest size: 2
+	# nec: 0
+	# not nec: 6
+	# rel: 4
+
+Instance 507:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 508:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 509:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 510:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 511:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 512:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 513:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 514:
+	# cbWAXps: 52
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 4
+
+Instance 515:
+	# cbWAXps: 44
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 5
+
+Instance 516:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 517:
+	# cbWAXps: 52
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 4
+
+Instance 518:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 519:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 520:
+	# cbWAXps: 52
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 4
+
+Instance 521:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 522:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 523:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 524:
+	# cbWAXps: 24
+	Smallest size: 2
+	# nec: 0
+	# not nec: 6
+	# rel: 4
+
+Instance 525:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 526:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 527:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 528:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 529:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 530:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 531:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 532:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 533:
+	# cbWAXps: 24
+	Smallest size: 2
+	# nec: 0
+	# not nec: 6
+	# rel: 4
+
+Instance 534:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 535:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 536:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 537:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 538:
+	# cbWAXps: 40
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 3
+
+Instance 539:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 540:
+	# cbWAXps: 16
+	Smallest size: 2
+	# nec: 2
+	# not nec: 4
+	# rel: 2
+
+Instance 541:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 542:
+	# cbWAXps: 36
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 4
+
+Instance 543:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 544:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 545:
+	# cbWAXps: 34
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 5
+
+Instance 546:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 547:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 548:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 549:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 550:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 551:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 552:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 553:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 554:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 555:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 556:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 557:
+	# cbWAXps: 2
+	Smallest size: 5
+	# nec: 5
+	# not nec: 1
+	# rel: 5
+
+Instance 558:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 559:
+	# cbWAXps: 36
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 4
+
+Instance 560:
+	# cbWAXps: 14
+	Smallest size: 3
+	# nec: 1
+	# not nec: 5
+	# rel: 5
+
+Instance 561:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 562:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 563:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 564:
+	# cbWAXps: 2
+	Smallest size: 5
+	# nec: 5
+	# not nec: 1
+	# rel: 5
+
+Instance 565:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 566:
+	# cbWAXps: 2
+	Smallest size: 5
+	# nec: 5
+	# not nec: 1
+	# rel: 5
+
+Instance 567:
+	# cbWAXps: 2
+	Smallest size: 5
+	# nec: 5
+	# not nec: 1
+	# rel: 5
+
+Instance 568:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 569:
+	# cbWAXps: 36
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 4
+
+Instance 570:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 571:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 572:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 573:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 574:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 575:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 576:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 577:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 578:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 579:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 580:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 581:
+	# cbWAXps: 2
+	Smallest size: 5
+	# nec: 5
+	# not nec: 1
+	# rel: 5
+
+Instance 582:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 583:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 584:
+	# cbWAXps: 2
+	Smallest size: 5
+	# nec: 5
+	# not nec: 1
+	# rel: 5
+
+Instance 585:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 586:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 587:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 588:
+	# cbWAXps: 2
+	Smallest size: 5
+	# nec: 5
+	# not nec: 1
+	# rel: 5
+
+Instance 589:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 590:
+	# cbWAXps: 1
+	Smallest size: 6
+	# nec: 6
+	# not nec: 0
+	# rel: 6
+
+Instance 591:
+	# cbWAXps: 3
+	Smallest size: 5
+	# nec: 4
+	# not nec: 2
+	# rel: 6
+
+Instance 592:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 593:
+	# cbWAXps: 2
+	Smallest size: 5
+	# nec: 5
+	# not nec: 1
+	# rel: 5
+
+Instance 594:
+	# cbWAXps: 3
+	Smallest size: 5
+	# nec: 4
+	# not nec: 2
+	# rel: 6
+
+Instance 595:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 596:
+	# cbWAXps: 36
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 4
+
+Instance 597:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 598:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 599:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 600:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 601:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 602:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 603:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 604:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 605:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 606:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 607:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 608:
+	# cbWAXps: 1
+	Smallest size: 6
+	# nec: 6
+	# not nec: 0
+	# rel: 6
+
+Instance 609:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 610:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 611:
+	# cbWAXps: 2
+	Smallest size: 5
+	# nec: 5
+	# not nec: 1
+	# rel: 5
+
+Instance 612:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 613:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 614:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 615:
+	# cbWAXps: 2
+	Smallest size: 5
+	# nec: 5
+	# not nec: 1
+	# rel: 5
+
+Instance 616:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 617:
+	# cbWAXps: 1
+	Smallest size: 6
+	# nec: 6
+	# not nec: 0
+	# rel: 6
+
+Instance 618:
+	# cbWAXps: 3
+	Smallest size: 5
+	# nec: 4
+	# not nec: 2
+	# rel: 6
+
+Instance 619:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 620:
+	# cbWAXps: 2
+	Smallest size: 5
+	# nec: 5
+	# not nec: 1
+	# rel: 5
+
+Instance 621:
+	# cbWAXps: 3
+	Smallest size: 5
+	# nec: 4
+	# not nec: 2
+	# rel: 6
+
+Instance 622:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 623:
+	# cbWAXps: 36
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 4
+
+Instance 624:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 625:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 626:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 627:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 628:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 629:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 630:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 631:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 632:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 633:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 634:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 635:
+	# cbWAXps: 1
+	Smallest size: 6
+	# nec: 6
+	# not nec: 0
+	# rel: 6
+
+Instance 636:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 637:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 638:
+	# cbWAXps: 2
+	Smallest size: 5
+	# nec: 5
+	# not nec: 1
+	# rel: 5
+
+Instance 639:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 640:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 641:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 642:
+	# cbWAXps: 2
+	Smallest size: 5
+	# nec: 5
+	# not nec: 1
+	# rel: 5
+
+Instance 643:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 644:
+	# cbWAXps: 1
+	Smallest size: 6
+	# nec: 6
+	# not nec: 0
+	# rel: 6
+
+Instance 645:
+	# cbWAXps: 3
+	Smallest size: 5
+	# nec: 4
+	# not nec: 2
+	# rel: 6
+
+Instance 646:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 647:
+	# cbWAXps: 2
+	Smallest size: 5
+	# nec: 5
+	# not nec: 1
+	# rel: 5
+
+Instance 648:
+	# cbWAXps: 3
+	Smallest size: 5
+	# nec: 4
+	# not nec: 2
+	# rel: 6
+
+Instance 649:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 650:
+	# cbWAXps: 36
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 4
+
+Instance 651:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 652:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 653:
+	# cbWAXps: 34
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 5
+
+Instance 654:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 655:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 656:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 657:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 658:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 659:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 660:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 661:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 662:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 663:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 664:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 665:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 666:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 667:
+	# cbWAXps: 36
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 4
+
+Instance 668:
+	# cbWAXps: 14
+	Smallest size: 3
+	# nec: 1
+	# not nec: 5
+	# rel: 5
+
+Instance 669:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 670:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 671:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 672:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 673:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 674:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 675:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 676:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 677:
+	# cbWAXps: 36
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 4
+
+Instance 678:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 679:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 680:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 681:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 682:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 683:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 684:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 685:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 686:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 687:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 688:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 689:
+	# cbWAXps: 2
+	Smallest size: 5
+	# nec: 5
+	# not nec: 1
+	# rel: 5
+
+Instance 690:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 691:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 692:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 693:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 694:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 695:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 696:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 697:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 698:
+	# cbWAXps: 2
+	Smallest size: 5
+	# nec: 5
+	# not nec: 1
+	# rel: 5
+
+Instance 699:
+	# cbWAXps: 6
+	Smallest size: 4
+	# nec: 3
+	# not nec: 3
+	# rel: 5
+
+Instance 700:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 701:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 702:
+	# cbWAXps: 6
+	Smallest size: 4
+	# nec: 3
+	# not nec: 3
+	# rel: 5
+
+Instance 703:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 704:
+	# cbWAXps: 36
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 4
+
+Instance 705:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 706:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 707:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 708:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 709:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 710:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 711:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 712:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 713:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 714:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 715:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 716:
+	# cbWAXps: 2
+	Smallest size: 5
+	# nec: 5
+	# not nec: 1
+	# rel: 5
+
+Instance 717:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 718:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 719:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 720:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 721:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 722:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 723:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 724:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 725:
+	# cbWAXps: 2
+	Smallest size: 5
+	# nec: 5
+	# not nec: 1
+	# rel: 5
+
+Instance 726:
+	# cbWAXps: 6
+	Smallest size: 4
+	# nec: 3
+	# not nec: 3
+	# rel: 5
+
+Instance 727:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 728:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 729:
+	# cbWAXps: 6
+	Smallest size: 4
+	# nec: 3
+	# not nec: 3
+	# rel: 5
+
+Instance 730:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 731:
+	# cbWAXps: 36
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 4
+
+Instance 732:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 733:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 734:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 735:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 736:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 737:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 738:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 739:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 740:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 741:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 742:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 743:
+	# cbWAXps: 2
+	Smallest size: 5
+	# nec: 5
+	# not nec: 1
+	# rel: 5
+
+Instance 744:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 745:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 746:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 747:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 748:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 749:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 750:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 751:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 752:
+	# cbWAXps: 2
+	Smallest size: 5
+	# nec: 5
+	# not nec: 1
+	# rel: 5
+
+Instance 753:
+	# cbWAXps: 6
+	Smallest size: 4
+	# nec: 3
+	# not nec: 3
+	# rel: 5
+
+Instance 754:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 755:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 756:
+	# cbWAXps: 6
+	Smallest size: 4
+	# nec: 3
+	# not nec: 3
+	# rel: 5
+
+Instance 757:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 758:
+	# cbWAXps: 36
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 4
+
+Instance 759:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 760:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 761:
+	# cbWAXps: 34
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 5
+
+Instance 762:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 763:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 764:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 765:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 766:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 767:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 768:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 769:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 770:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 771:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 772:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 773:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 774:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 775:
+	# cbWAXps: 36
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 4
+
+Instance 776:
+	# cbWAXps: 14
+	Smallest size: 3
+	# nec: 1
+	# not nec: 5
+	# rel: 5
+
+Instance 777:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 778:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 779:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 780:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 781:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 782:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 783:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 784:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 785:
+	# cbWAXps: 36
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 4
+
+Instance 786:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 787:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 788:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 789:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 790:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 791:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 792:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 793:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 794:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 795:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 796:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 797:
+	# cbWAXps: 2
+	Smallest size: 5
+	# nec: 5
+	# not nec: 1
+	# rel: 5
+
+Instance 798:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 799:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 800:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 801:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 802:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 803:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 804:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 805:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 806:
+	# cbWAXps: 2
+	Smallest size: 5
+	# nec: 5
+	# not nec: 1
+	# rel: 5
+
+Instance 807:
+	# cbWAXps: 6
+	Smallest size: 4
+	# nec: 3
+	# not nec: 3
+	# rel: 5
+
+Instance 808:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 809:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 810:
+	# cbWAXps: 6
+	Smallest size: 4
+	# nec: 3
+	# not nec: 3
+	# rel: 5
+
+Instance 811:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 812:
+	# cbWAXps: 36
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 4
+
+Instance 813:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 814:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 815:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 816:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 817:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 818:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 819:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 820:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 821:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 822:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 823:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 824:
+	# cbWAXps: 2
+	Smallest size: 5
+	# nec: 5
+	# not nec: 1
+	# rel: 5
+
+Instance 825:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 826:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 827:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 828:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 829:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 830:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 831:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 832:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 833:
+	# cbWAXps: 2
+	Smallest size: 5
+	# nec: 5
+	# not nec: 1
+	# rel: 5
+
+Instance 834:
+	# cbWAXps: 6
+	Smallest size: 4
+	# nec: 3
+	# not nec: 3
+	# rel: 5
+
+Instance 835:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 836:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 837:
+	# cbWAXps: 6
+	Smallest size: 4
+	# nec: 3
+	# not nec: 3
+	# rel: 5
+
+Instance 838:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 839:
+	# cbWAXps: 36
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 4
+
+Instance 840:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 841:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 842:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 843:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 844:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 845:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 846:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 847:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 848:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 849:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 850:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 851:
+	# cbWAXps: 2
+	Smallest size: 5
+	# nec: 5
+	# not nec: 1
+	# rel: 5
+
+Instance 852:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 853:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 854:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 855:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 856:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 857:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 858:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 859:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 860:
+	# cbWAXps: 2
+	Smallest size: 5
+	# nec: 5
+	# not nec: 1
+	# rel: 5
+
+Instance 861:
+	# cbWAXps: 6
+	Smallest size: 4
+	# nec: 3
+	# not nec: 3
+	# rel: 5
+
+Instance 862:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 863:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 864:
+	# cbWAXps: 6
+	Smallest size: 4
+	# nec: 3
+	# not nec: 3
+	# rel: 5
+
+Instance 865:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 866:
+	# cbWAXps: 36
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 4
+
+Instance 867:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 868:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 869:
+	# cbWAXps: 34
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 5
+
+Instance 870:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 871:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 872:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 873:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 874:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 875:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 876:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 877:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 878:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 879:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 880:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 881:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 882:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 883:
+	# cbWAXps: 36
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 4
+
+Instance 884:
+	# cbWAXps: 14
+	Smallest size: 3
+	# nec: 1
+	# not nec: 5
+	# rel: 5
+
+Instance 885:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 886:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 887:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 888:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 889:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 890:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 891:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 892:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 893:
+	# cbWAXps: 36
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 4
+
+Instance 894:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 895:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 896:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 897:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 898:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 899:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 900:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 901:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 902:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 903:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 904:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 905:
+	# cbWAXps: 2
+	Smallest size: 5
+	# nec: 5
+	# not nec: 1
+	# rel: 5
+
+Instance 906:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 907:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 908:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 909:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 910:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 911:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 912:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 913:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 914:
+	# cbWAXps: 2
+	Smallest size: 5
+	# nec: 5
+	# not nec: 1
+	# rel: 5
+
+Instance 915:
+	# cbWAXps: 6
+	Smallest size: 4
+	# nec: 3
+	# not nec: 3
+	# rel: 5
+
+Instance 916:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 917:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 918:
+	# cbWAXps: 6
+	Smallest size: 4
+	# nec: 3
+	# not nec: 3
+	# rel: 5
+
+Instance 919:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 920:
+	# cbWAXps: 36
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 4
+
+Instance 921:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 922:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 923:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 924:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 925:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 926:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 927:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 928:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 929:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 930:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 931:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 932:
+	# cbWAXps: 2
+	Smallest size: 5
+	# nec: 5
+	# not nec: 1
+	# rel: 5
+
+Instance 933:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 934:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 935:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 936:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 937:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 938:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 939:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 940:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 941:
+	# cbWAXps: 2
+	Smallest size: 5
+	# nec: 5
+	# not nec: 1
+	# rel: 5
+
+Instance 942:
+	# cbWAXps: 6
+	Smallest size: 4
+	# nec: 3
+	# not nec: 3
+	# rel: 5
+
+Instance 943:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 944:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 945:
+	# cbWAXps: 6
+	Smallest size: 4
+	# nec: 3
+	# not nec: 3
+	# rel: 5
+
+Instance 946:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 947:
+	# cbWAXps: 36
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 4
+
+Instance 948:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 949:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 950:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 951:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 952:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 953:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 954:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 955:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 956:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 957:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 958:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 959:
+	# cbWAXps: 2
+	Smallest size: 5
+	# nec: 5
+	# not nec: 1
+	# rel: 5
+
+Instance 960:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 961:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 962:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 963:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 964:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 965:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 966:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 967:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 968:
+	# cbWAXps: 2
+	Smallest size: 5
+	# nec: 5
+	# not nec: 1
+	# rel: 5
+
+Instance 969:
+	# cbWAXps: 6
+	Smallest size: 4
+	# nec: 3
+	# not nec: 3
+	# rel: 5
+
+Instance 970:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 971:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 972:
+	# cbWAXps: 6
+	Smallest size: 4
+	# nec: 3
+	# not nec: 3
+	# rel: 5
+
+Instance 973:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 974:
+	# cbWAXps: 34
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 5
+
+Instance 975:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 976:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 977:
+	# cbWAXps: 33
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 6
+
+Instance 978:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 979:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 980:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 981:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 982:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 983:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 984:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 985:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 986:
+	# cbWAXps: 2
+	Smallest size: 5
+	# nec: 5
+	# not nec: 1
+	# rel: 5
+
+Instance 987:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 988:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 989:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 990:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 991:
+	# cbWAXps: 36
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 4
+
+Instance 992:
+	# cbWAXps: 11
+	Smallest size: 3
+	# nec: 1
+	# not nec: 5
+	# rel: 6
+
+Instance 993:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 994:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 995:
+	# cbWAXps: 2
+	Smallest size: 5
+	# nec: 5
+	# not nec: 1
+	# rel: 5
+
+Instance 996:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 997:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 998:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 999:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 1000:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 1001:
+	# cbWAXps: 34
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 5
+
+Instance 1002:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1003:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 1004:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1005:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1006:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 1007:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1008:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1009:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1010:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 1011:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 1012:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1013:
+	# cbWAXps: 1
+	Smallest size: 6
+	# nec: 6
+	# not nec: 0
+	# rel: 6
+
+Instance 1014:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 1015:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1016:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 1017:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 1018:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1019:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 1020:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 1021:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1022:
+	# cbWAXps: 2
+	Smallest size: 5
+	# nec: 5
+	# not nec: 1
+	# rel: 5
+
+Instance 1023:
+	# cbWAXps: 6
+	Smallest size: 4
+	# nec: 3
+	# not nec: 3
+	# rel: 5
+
+Instance 1024:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1025:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 1026:
+	# cbWAXps: 6
+	Smallest size: 4
+	# nec: 3
+	# not nec: 3
+	# rel: 5
+
+Instance 1027:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 1028:
+	# cbWAXps: 34
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 5
+
+Instance 1029:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1030:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 1031:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1032:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1033:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 1034:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1035:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1036:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1037:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 1038:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 1039:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1040:
+	# cbWAXps: 2
+	Smallest size: 5
+	# nec: 5
+	# not nec: 1
+	# rel: 5
+
+Instance 1041:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 1042:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1043:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 1044:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 1045:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1046:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 1047:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 1048:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1049:
+	# cbWAXps: 2
+	Smallest size: 5
+	# nec: 5
+	# not nec: 1
+	# rel: 5
+
+Instance 1050:
+	# cbWAXps: 6
+	Smallest size: 4
+	# nec: 3
+	# not nec: 3
+	# rel: 5
+
+Instance 1051:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1052:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 1053:
+	# cbWAXps: 6
+	Smallest size: 4
+	# nec: 3
+	# not nec: 3
+	# rel: 5
+
+Instance 1054:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 1055:
+	# cbWAXps: 34
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 5
+
+Instance 1056:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1057:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 1058:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1059:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1060:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 1061:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1062:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1063:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1064:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 1065:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 1066:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1067:
+	# cbWAXps: 2
+	Smallest size: 5
+	# nec: 5
+	# not nec: 1
+	# rel: 5
+
+Instance 1068:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 1069:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1070:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 1071:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 1072:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1073:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 1074:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 1075:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1076:
+	# cbWAXps: 2
+	Smallest size: 5
+	# nec: 5
+	# not nec: 1
+	# rel: 5
+
+Instance 1077:
+	# cbWAXps: 6
+	Smallest size: 4
+	# nec: 3
+	# not nec: 3
+	# rel: 5
+
+Instance 1078:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1079:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 1080:
+	# cbWAXps: 6
+	Smallest size: 4
+	# nec: 3
+	# not nec: 3
+	# rel: 5
+
+Instance 1081:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 1082:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1083:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1084:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 1085:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1086:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1087:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 1088:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1089:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1090:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1091:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 1092:
+	# cbWAXps: 12
+	Smallest size: 3
+	# nec: 2
+	# not nec: 4
+	# rel: 4
+
+Instance 1093:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1094:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 1095:
+	# cbWAXps: 12
+	Smallest size: 3
+	# nec: 2
+	# not nec: 4
+	# rel: 4
+
+Instance 1096:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1097:
+	# cbWAXps: 8
+	Smallest size: 4
+	# nec: 2
+	# not nec: 4
+	# rel: 5
+
+Instance 1098:
+	# cbWAXps: 12
+	Smallest size: 3
+	# nec: 2
+	# not nec: 4
+	# rel: 4
+
+Instance 1099:
+	# cbWAXps: 36
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 4
+
+Instance 1100:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 1101:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 1102:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1103:
+	# cbWAXps: 2
+	Smallest size: 5
+	# nec: 5
+	# not nec: 1
+	# rel: 5
+
+Instance 1104:
+	# cbWAXps: 6
+	Smallest size: 4
+	# nec: 3
+	# not nec: 3
+	# rel: 5
+
+Instance 1105:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1106:
+	# cbWAXps: 6
+	Smallest size: 4
+	# nec: 3
+	# not nec: 3
+	# rel: 5
+
+Instance 1107:
+	# cbWAXps: 6
+	Smallest size: 4
+	# nec: 3
+	# not nec: 3
+	# rel: 5
+
+Instance 1108:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 1109:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1110:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1111:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 1112:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1113:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1114:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 1115:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1116:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1117:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1118:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 1119:
+	# cbWAXps: 12
+	Smallest size: 3
+	# nec: 2
+	# not nec: 4
+	# rel: 4
+
+Instance 1120:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1121:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 1122:
+	# cbWAXps: 12
+	Smallest size: 3
+	# nec: 2
+	# not nec: 4
+	# rel: 4
+
+Instance 1123:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1124:
+	# cbWAXps: 8
+	Smallest size: 4
+	# nec: 2
+	# not nec: 4
+	# rel: 5
+
+Instance 1125:
+	# cbWAXps: 12
+	Smallest size: 3
+	# nec: 2
+	# not nec: 4
+	# rel: 4
+
+Instance 1126:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1127:
+	# cbWAXps: 2
+	Smallest size: 5
+	# nec: 5
+	# not nec: 1
+	# rel: 5
+
+Instance 1128:
+	# cbWAXps: 6
+	Smallest size: 4
+	# nec: 3
+	# not nec: 3
+	# rel: 5
+
+Instance 1129:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1130:
+	# cbWAXps: 5
+	Smallest size: 5
+	# nec: 2
+	# not nec: 4
+	# rel: 6
+
+Instance 1131:
+	# cbWAXps: 9
+	Smallest size: 4
+	# nec: 2
+	# not nec: 4
+	# rel: 6
+
+Instance 1132:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1133:
+	# cbWAXps: 7
+	Smallest size: 4
+	# nec: 2
+	# not nec: 4
+	# rel: 6
+
+Instance 1134:
+	# cbWAXps: 9
+	Smallest size: 4
+	# nec: 2
+	# not nec: 4
+	# rel: 6
+
+Instance 1135:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 1136:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1137:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1138:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 1139:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1140:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1141:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 1142:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1143:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1144:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1145:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 1146:
+	# cbWAXps: 12
+	Smallest size: 3
+	# nec: 2
+	# not nec: 4
+	# rel: 4
+
+Instance 1147:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1148:
+	# cbWAXps: 6
+	Smallest size: 4
+	# nec: 2
+	# not nec: 4
+	# rel: 6
+
+Instance 1149:
+	# cbWAXps: 12
+	Smallest size: 3
+	# nec: 2
+	# not nec: 4
+	# rel: 4
+
+Instance 1150:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1151:
+	# cbWAXps: 8
+	Smallest size: 4
+	# nec: 2
+	# not nec: 4
+	# rel: 5
+
+Instance 1152:
+	# cbWAXps: 12
+	Smallest size: 3
+	# nec: 2
+	# not nec: 4
+	# rel: 4
+
+Instance 1153:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1154:
+	# cbWAXps: 2
+	Smallest size: 5
+	# nec: 5
+	# not nec: 1
+	# rel: 5
+
+Instance 1155:
+	# cbWAXps: 6
+	Smallest size: 4
+	# nec: 3
+	# not nec: 3
+	# rel: 5
+
+Instance 1156:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1157:
+	# cbWAXps: 5
+	Smallest size: 5
+	# nec: 2
+	# not nec: 4
+	# rel: 6
+
+Instance 1158:
+	# cbWAXps: 9
+	Smallest size: 4
+	# nec: 2
+	# not nec: 4
+	# rel: 6
+
+Instance 1159:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1160:
+	# cbWAXps: 7
+	Smallest size: 4
+	# nec: 2
+	# not nec: 4
+	# rel: 6
+
+Instance 1161:
+	# cbWAXps: 9
+	Smallest size: 4
+	# nec: 2
+	# not nec: 4
+	# rel: 6
+
+Instance 1162:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 1163:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1164:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1165:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 1166:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1167:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1168:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 1169:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1170:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1171:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1172:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 1173:
+	# cbWAXps: 12
+	Smallest size: 3
+	# nec: 2
+	# not nec: 4
+	# rel: 4
+
+Instance 1174:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1175:
+	# cbWAXps: 6
+	Smallest size: 4
+	# nec: 2
+	# not nec: 4
+	# rel: 6
+
+Instance 1176:
+	# cbWAXps: 12
+	Smallest size: 3
+	# nec: 2
+	# not nec: 4
+	# rel: 4
+
+Instance 1177:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1178:
+	# cbWAXps: 8
+	Smallest size: 4
+	# nec: 2
+	# not nec: 4
+	# rel: 5
+
+Instance 1179:
+	# cbWAXps: 12
+	Smallest size: 3
+	# nec: 2
+	# not nec: 4
+	# rel: 4
+
+Instance 1180:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1181:
+	# cbWAXps: 2
+	Smallest size: 5
+	# nec: 5
+	# not nec: 1
+	# rel: 5
+
+Instance 1182:
+	# cbWAXps: 6
+	Smallest size: 4
+	# nec: 3
+	# not nec: 3
+	# rel: 5
+
+Instance 1183:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1184:
+	# cbWAXps: 5
+	Smallest size: 5
+	# nec: 2
+	# not nec: 4
+	# rel: 6
+
+Instance 1185:
+	# cbWAXps: 9
+	Smallest size: 4
+	# nec: 2
+	# not nec: 4
+	# rel: 6
+
+Instance 1186:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1187:
+	# cbWAXps: 7
+	Smallest size: 4
+	# nec: 2
+	# not nec: 4
+	# rel: 6
+
+Instance 1188:
+	# cbWAXps: 9
+	Smallest size: 4
+	# nec: 2
+	# not nec: 4
+	# rel: 6
+
+Instance 1189:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 1190:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1191:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1192:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 1193:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1194:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1195:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 1196:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1197:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1198:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1199:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 1200:
+	# cbWAXps: 12
+	Smallest size: 3
+	# nec: 2
+	# not nec: 4
+	# rel: 4
+
+Instance 1201:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1202:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 1203:
+	# cbWAXps: 12
+	Smallest size: 3
+	# nec: 2
+	# not nec: 4
+	# rel: 4
+
+Instance 1204:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1205:
+	# cbWAXps: 8
+	Smallest size: 4
+	# nec: 2
+	# not nec: 4
+	# rel: 5
+
+Instance 1206:
+	# cbWAXps: 12
+	Smallest size: 3
+	# nec: 2
+	# not nec: 4
+	# rel: 4
+
+Instance 1207:
+	# cbWAXps: 36
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 4
+
+Instance 1208:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 1209:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 1210:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1211:
+	# cbWAXps: 2
+	Smallest size: 5
+	# nec: 5
+	# not nec: 1
+	# rel: 5
+
+Instance 1212:
+	# cbWAXps: 6
+	Smallest size: 4
+	# nec: 3
+	# not nec: 3
+	# rel: 5
+
+Instance 1213:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1214:
+	# cbWAXps: 6
+	Smallest size: 4
+	# nec: 3
+	# not nec: 3
+	# rel: 5
+
+Instance 1215:
+	# cbWAXps: 6
+	Smallest size: 4
+	# nec: 3
+	# not nec: 3
+	# rel: 5
+
+Instance 1216:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 1217:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1218:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1219:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 1220:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1221:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1222:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 1223:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1224:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1225:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1226:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 1227:
+	# cbWAXps: 12
+	Smallest size: 3
+	# nec: 2
+	# not nec: 4
+	# rel: 4
+
+Instance 1228:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1229:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 1230:
+	# cbWAXps: 12
+	Smallest size: 3
+	# nec: 2
+	# not nec: 4
+	# rel: 4
+
+Instance 1231:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1232:
+	# cbWAXps: 8
+	Smallest size: 4
+	# nec: 2
+	# not nec: 4
+	# rel: 5
+
+Instance 1233:
+	# cbWAXps: 12
+	Smallest size: 3
+	# nec: 2
+	# not nec: 4
+	# rel: 4
+
+Instance 1234:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1235:
+	# cbWAXps: 2
+	Smallest size: 5
+	# nec: 5
+	# not nec: 1
+	# rel: 5
+
+Instance 1236:
+	# cbWAXps: 6
+	Smallest size: 4
+	# nec: 3
+	# not nec: 3
+	# rel: 5
+
+Instance 1237:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1238:
+	# cbWAXps: 5
+	Smallest size: 5
+	# nec: 2
+	# not nec: 4
+	# rel: 6
+
+Instance 1239:
+	# cbWAXps: 9
+	Smallest size: 4
+	# nec: 2
+	# not nec: 4
+	# rel: 6
+
+Instance 1240:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1241:
+	# cbWAXps: 7
+	Smallest size: 4
+	# nec: 2
+	# not nec: 4
+	# rel: 6
+
+Instance 1242:
+	# cbWAXps: 9
+	Smallest size: 4
+	# nec: 2
+	# not nec: 4
+	# rel: 6
+
+Instance 1243:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 1244:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1245:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1246:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 1247:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1248:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1249:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 1250:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1251:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1252:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1253:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 1254:
+	# cbWAXps: 12
+	Smallest size: 3
+	# nec: 2
+	# not nec: 4
+	# rel: 4
+
+Instance 1255:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1256:
+	# cbWAXps: 6
+	Smallest size: 4
+	# nec: 2
+	# not nec: 4
+	# rel: 6
+
+Instance 1257:
+	# cbWAXps: 12
+	Smallest size: 3
+	# nec: 2
+	# not nec: 4
+	# rel: 4
+
+Instance 1258:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1259:
+	# cbWAXps: 8
+	Smallest size: 4
+	# nec: 2
+	# not nec: 4
+	# rel: 5
+
+Instance 1260:
+	# cbWAXps: 12
+	Smallest size: 3
+	# nec: 2
+	# not nec: 4
+	# rel: 4
+
+Instance 1261:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1262:
+	# cbWAXps: 2
+	Smallest size: 5
+	# nec: 5
+	# not nec: 1
+	# rel: 5
+
+Instance 1263:
+	# cbWAXps: 6
+	Smallest size: 4
+	# nec: 3
+	# not nec: 3
+	# rel: 5
+
+Instance 1264:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1265:
+	# cbWAXps: 5
+	Smallest size: 5
+	# nec: 2
+	# not nec: 4
+	# rel: 6
+
+Instance 1266:
+	# cbWAXps: 9
+	Smallest size: 4
+	# nec: 2
+	# not nec: 4
+	# rel: 6
+
+Instance 1267:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1268:
+	# cbWAXps: 7
+	Smallest size: 4
+	# nec: 2
+	# not nec: 4
+	# rel: 6
+
+Instance 1269:
+	# cbWAXps: 9
+	Smallest size: 4
+	# nec: 2
+	# not nec: 4
+	# rel: 6
+
+Instance 1270:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 1271:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1272:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1273:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 1274:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1275:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1276:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 1277:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1278:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1279:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1280:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 1281:
+	# cbWAXps: 12
+	Smallest size: 3
+	# nec: 2
+	# not nec: 4
+	# rel: 4
+
+Instance 1282:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1283:
+	# cbWAXps: 6
+	Smallest size: 4
+	# nec: 2
+	# not nec: 4
+	# rel: 6
+
+Instance 1284:
+	# cbWAXps: 12
+	Smallest size: 3
+	# nec: 2
+	# not nec: 4
+	# rel: 4
+
+Instance 1285:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1286:
+	# cbWAXps: 8
+	Smallest size: 4
+	# nec: 2
+	# not nec: 4
+	# rel: 5
+
+Instance 1287:
+	# cbWAXps: 12
+	Smallest size: 3
+	# nec: 2
+	# not nec: 4
+	# rel: 4
+
+Instance 1288:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1289:
+	# cbWAXps: 2
+	Smallest size: 5
+	# nec: 5
+	# not nec: 1
+	# rel: 5
+
+Instance 1290:
+	# cbWAXps: 6
+	Smallest size: 4
+	# nec: 3
+	# not nec: 3
+	# rel: 5
+
+Instance 1291:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1292:
+	# cbWAXps: 5
+	Smallest size: 5
+	# nec: 2
+	# not nec: 4
+	# rel: 6
+
+Instance 1293:
+	# cbWAXps: 9
+	Smallest size: 4
+	# nec: 2
+	# not nec: 4
+	# rel: 6
+
+Instance 1294:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1295:
+	# cbWAXps: 7
+	Smallest size: 4
+	# nec: 2
+	# not nec: 4
+	# rel: 6
+
+Instance 1296:
+	# cbWAXps: 9
+	Smallest size: 4
+	# nec: 2
+	# not nec: 4
+	# rel: 6
+
+Instance 1297:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 1298:
+	# cbWAXps: 36
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 4
+
+Instance 1299:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1300:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 1301:
+	# cbWAXps: 34
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 5
+
+Instance 1302:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1303:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 1304:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1305:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1306:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1307:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 1308:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 1309:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1310:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 1311:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 1312:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1313:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 1314:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 1315:
+	# cbWAXps: 36
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 4
+
+Instance 1316:
+	# cbWAXps: 14
+	Smallest size: 3
+	# nec: 1
+	# not nec: 5
+	# rel: 5
+
+Instance 1317:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 1318:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1319:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 1320:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 1321:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1322:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 1323:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 1324:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 1325:
+	# cbWAXps: 36
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 4
+
+Instance 1326:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1327:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 1328:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1329:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1330:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 1331:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1332:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1333:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1334:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 1335:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 1336:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1337:
+	# cbWAXps: 2
+	Smallest size: 5
+	# nec: 5
+	# not nec: 1
+	# rel: 5
+
+Instance 1338:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 1339:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1340:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 1341:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 1342:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1343:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 1344:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 1345:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1346:
+	# cbWAXps: 2
+	Smallest size: 5
+	# nec: 5
+	# not nec: 1
+	# rel: 5
+
+Instance 1347:
+	# cbWAXps: 6
+	Smallest size: 4
+	# nec: 3
+	# not nec: 3
+	# rel: 5
+
+Instance 1348:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1349:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 1350:
+	# cbWAXps: 6
+	Smallest size: 4
+	# nec: 3
+	# not nec: 3
+	# rel: 5
+
+Instance 1351:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 1352:
+	# cbWAXps: 36
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 4
+
+Instance 1353:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1354:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 1355:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1356:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1357:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 1358:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1359:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1360:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1361:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 1362:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 1363:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1364:
+	# cbWAXps: 2
+	Smallest size: 5
+	# nec: 5
+	# not nec: 1
+	# rel: 5
+
+Instance 1365:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 1366:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1367:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 1368:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 1369:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1370:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 1371:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 1372:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1373:
+	# cbWAXps: 2
+	Smallest size: 5
+	# nec: 5
+	# not nec: 1
+	# rel: 5
+
+Instance 1374:
+	# cbWAXps: 6
+	Smallest size: 4
+	# nec: 3
+	# not nec: 3
+	# rel: 5
+
+Instance 1375:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1376:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 1377:
+	# cbWAXps: 6
+	Smallest size: 4
+	# nec: 3
+	# not nec: 3
+	# rel: 5
+
+Instance 1378:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 1379:
+	# cbWAXps: 36
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 4
+
+Instance 1380:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1381:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 1382:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1383:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1384:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 1385:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1386:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1387:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1388:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 1389:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 1390:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1391:
+	# cbWAXps: 2
+	Smallest size: 5
+	# nec: 5
+	# not nec: 1
+	# rel: 5
+
+Instance 1392:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 1393:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1394:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 1395:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 1396:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1397:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 1398:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 1399:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1400:
+	# cbWAXps: 2
+	Smallest size: 5
+	# nec: 5
+	# not nec: 1
+	# rel: 5
+
+Instance 1401:
+	# cbWAXps: 6
+	Smallest size: 4
+	# nec: 3
+	# not nec: 3
+	# rel: 5
+
+Instance 1402:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1403:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 1404:
+	# cbWAXps: 6
+	Smallest size: 4
+	# nec: 3
+	# not nec: 3
+	# rel: 5
+
+Instance 1405:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 1406:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1407:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1408:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 1409:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1410:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1411:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 1412:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1413:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1414:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1415:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 1416:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 1417:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1418:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 1419:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 1420:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1421:
+	# cbWAXps: 6
+	Smallest size: 4
+	# nec: 3
+	# not nec: 3
+	# rel: 5
+
+Instance 1422:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 1423:
+	# cbWAXps: 36
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 4
+
+Instance 1424:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 1425:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 1426:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1427:
+	# cbWAXps: 2
+	Smallest size: 5
+	# nec: 5
+	# not nec: 1
+	# rel: 5
+
+Instance 1428:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 1429:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1430:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 1431:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 1432:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 1433:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1434:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1435:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 1436:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1437:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1438:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 1439:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1440:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1441:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1442:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 1443:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 1444:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1445:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 1446:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 1447:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1448:
+	# cbWAXps: 6
+	Smallest size: 4
+	# nec: 3
+	# not nec: 3
+	# rel: 5
+
+Instance 1449:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 1450:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1451:
+	# cbWAXps: 2
+	Smallest size: 5
+	# nec: 5
+	# not nec: 1
+	# rel: 5
+
+Instance 1452:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 1453:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1454:
+	# cbWAXps: 4
+	Smallest size: 5
+	# nec: 3
+	# not nec: 3
+	# rel: 6
+
+Instance 1455:
+	# cbWAXps: 6
+	Smallest size: 4
+	# nec: 3
+	# not nec: 3
+	# rel: 5
+
+Instance 1456:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1457:
+	# cbWAXps: 5
+	Smallest size: 4
+	# nec: 3
+	# not nec: 3
+	# rel: 6
+
+Instance 1458:
+	# cbWAXps: 6
+	Smallest size: 4
+	# nec: 3
+	# not nec: 3
+	# rel: 5
+
+Instance 1459:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 1460:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1461:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1462:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 1463:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1464:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1465:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 1466:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1467:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1468:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1469:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 1470:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 1471:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1472:
+	# cbWAXps: 5
+	Smallest size: 4
+	# nec: 3
+	# not nec: 3
+	# rel: 6
+
+Instance 1473:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 1474:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1475:
+	# cbWAXps: 6
+	Smallest size: 4
+	# nec: 3
+	# not nec: 3
+	# rel: 5
+
+Instance 1476:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 1477:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1478:
+	# cbWAXps: 2
+	Smallest size: 5
+	# nec: 5
+	# not nec: 1
+	# rel: 5
+
+Instance 1479:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 1480:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1481:
+	# cbWAXps: 4
+	Smallest size: 5
+	# nec: 3
+	# not nec: 3
+	# rel: 6
+
+Instance 1482:
+	# cbWAXps: 6
+	Smallest size: 4
+	# nec: 3
+	# not nec: 3
+	# rel: 5
+
+Instance 1483:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1484:
+	# cbWAXps: 5
+	Smallest size: 4
+	# nec: 3
+	# not nec: 3
+	# rel: 6
+
+Instance 1485:
+	# cbWAXps: 6
+	Smallest size: 4
+	# nec: 3
+	# not nec: 3
+	# rel: 5
+
+Instance 1486:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 1487:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1488:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1489:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 1490:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1491:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1492:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 1493:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1494:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1495:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1496:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 1497:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 1498:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1499:
+	# cbWAXps: 5
+	Smallest size: 4
+	# nec: 3
+	# not nec: 3
+	# rel: 6
+
+Instance 1500:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 1501:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1502:
+	# cbWAXps: 6
+	Smallest size: 4
+	# nec: 3
+	# not nec: 3
+	# rel: 5
+
+Instance 1503:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 1504:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1505:
+	# cbWAXps: 2
+	Smallest size: 5
+	# nec: 5
+	# not nec: 1
+	# rel: 5
+
+Instance 1506:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 1507:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1508:
+	# cbWAXps: 4
+	Smallest size: 5
+	# nec: 3
+	# not nec: 3
+	# rel: 6
+
+Instance 1509:
+	# cbWAXps: 6
+	Smallest size: 4
+	# nec: 3
+	# not nec: 3
+	# rel: 5
+
+Instance 1510:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1511:
+	# cbWAXps: 5
+	Smallest size: 4
+	# nec: 3
+	# not nec: 3
+	# rel: 6
+
+Instance 1512:
+	# cbWAXps: 6
+	Smallest size: 4
+	# nec: 3
+	# not nec: 3
+	# rel: 5
+
+Instance 1513:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 1514:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1515:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1516:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 1517:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1518:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1519:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 1520:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1521:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1522:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1523:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 1524:
+	# cbWAXps: 12
+	Smallest size: 3
+	# nec: 2
+	# not nec: 4
+	# rel: 4
+
+Instance 1525:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1526:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 1527:
+	# cbWAXps: 12
+	Smallest size: 3
+	# nec: 2
+	# not nec: 4
+	# rel: 4
+
+Instance 1528:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1529:
+	# cbWAXps: 8
+	Smallest size: 4
+	# nec: 2
+	# not nec: 4
+	# rel: 5
+
+Instance 1530:
+	# cbWAXps: 12
+	Smallest size: 3
+	# nec: 2
+	# not nec: 4
+	# rel: 4
+
+Instance 1531:
+	# cbWAXps: 36
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 4
+
+Instance 1532:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 1533:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 1534:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1535:
+	# cbWAXps: 2
+	Smallest size: 5
+	# nec: 5
+	# not nec: 1
+	# rel: 5
+
+Instance 1536:
+	# cbWAXps: 6
+	Smallest size: 4
+	# nec: 3
+	# not nec: 3
+	# rel: 5
+
+Instance 1537:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1538:
+	# cbWAXps: 6
+	Smallest size: 4
+	# nec: 3
+	# not nec: 3
+	# rel: 5
+
+Instance 1539:
+	# cbWAXps: 6
+	Smallest size: 4
+	# nec: 3
+	# not nec: 3
+	# rel: 5
+
+Instance 1540:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 1541:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1542:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1543:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 1544:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1545:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1546:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 1547:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1548:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1549:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1550:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 1551:
+	# cbWAXps: 12
+	Smallest size: 3
+	# nec: 2
+	# not nec: 4
+	# rel: 4
+
+Instance 1552:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1553:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 1554:
+	# cbWAXps: 12
+	Smallest size: 3
+	# nec: 2
+	# not nec: 4
+	# rel: 4
+
+Instance 1555:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1556:
+	# cbWAXps: 8
+	Smallest size: 4
+	# nec: 2
+	# not nec: 4
+	# rel: 5
+
+Instance 1557:
+	# cbWAXps: 12
+	Smallest size: 3
+	# nec: 2
+	# not nec: 4
+	# rel: 4
+
+Instance 1558:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1559:
+	# cbWAXps: 2
+	Smallest size: 5
+	# nec: 5
+	# not nec: 1
+	# rel: 5
+
+Instance 1560:
+	# cbWAXps: 6
+	Smallest size: 4
+	# nec: 3
+	# not nec: 3
+	# rel: 5
+
+Instance 1561:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1562:
+	# cbWAXps: 5
+	Smallest size: 5
+	# nec: 2
+	# not nec: 4
+	# rel: 6
+
+Instance 1563:
+	# cbWAXps: 9
+	Smallest size: 4
+	# nec: 2
+	# not nec: 4
+	# rel: 6
+
+Instance 1564:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1565:
+	# cbWAXps: 7
+	Smallest size: 4
+	# nec: 2
+	# not nec: 4
+	# rel: 6
+
+Instance 1566:
+	# cbWAXps: 9
+	Smallest size: 4
+	# nec: 2
+	# not nec: 4
+	# rel: 6
+
+Instance 1567:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 1568:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1569:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1570:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 1571:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1572:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1573:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 1574:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1575:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1576:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1577:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 1578:
+	# cbWAXps: 12
+	Smallest size: 3
+	# nec: 2
+	# not nec: 4
+	# rel: 4
+
+Instance 1579:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1580:
+	# cbWAXps: 6
+	Smallest size: 4
+	# nec: 2
+	# not nec: 4
+	# rel: 6
+
+Instance 1581:
+	# cbWAXps: 12
+	Smallest size: 3
+	# nec: 2
+	# not nec: 4
+	# rel: 4
+
+Instance 1582:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1583:
+	# cbWAXps: 8
+	Smallest size: 4
+	# nec: 2
+	# not nec: 4
+	# rel: 5
+
+Instance 1584:
+	# cbWAXps: 12
+	Smallest size: 3
+	# nec: 2
+	# not nec: 4
+	# rel: 4
+
+Instance 1585:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1586:
+	# cbWAXps: 2
+	Smallest size: 5
+	# nec: 5
+	# not nec: 1
+	# rel: 5
+
+Instance 1587:
+	# cbWAXps: 6
+	Smallest size: 4
+	# nec: 3
+	# not nec: 3
+	# rel: 5
+
+Instance 1588:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1589:
+	# cbWAXps: 5
+	Smallest size: 5
+	# nec: 2
+	# not nec: 4
+	# rel: 6
+
+Instance 1590:
+	# cbWAXps: 9
+	Smallest size: 4
+	# nec: 2
+	# not nec: 4
+	# rel: 6
+
+Instance 1591:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1592:
+	# cbWAXps: 7
+	Smallest size: 4
+	# nec: 2
+	# not nec: 4
+	# rel: 6
+
+Instance 1593:
+	# cbWAXps: 9
+	Smallest size: 4
+	# nec: 2
+	# not nec: 4
+	# rel: 6
+
+Instance 1594:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 1595:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1596:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1597:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 1598:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1599:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1600:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 1601:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1602:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1603:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1604:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 1605:
+	# cbWAXps: 12
+	Smallest size: 3
+	# nec: 2
+	# not nec: 4
+	# rel: 4
+
+Instance 1606:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1607:
+	# cbWAXps: 6
+	Smallest size: 4
+	# nec: 2
+	# not nec: 4
+	# rel: 6
+
+Instance 1608:
+	# cbWAXps: 12
+	Smallest size: 3
+	# nec: 2
+	# not nec: 4
+	# rel: 4
+
+Instance 1609:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1610:
+	# cbWAXps: 8
+	Smallest size: 4
+	# nec: 2
+	# not nec: 4
+	# rel: 5
+
+Instance 1611:
+	# cbWAXps: 12
+	Smallest size: 3
+	# nec: 2
+	# not nec: 4
+	# rel: 4
+
+Instance 1612:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1613:
+	# cbWAXps: 2
+	Smallest size: 5
+	# nec: 5
+	# not nec: 1
+	# rel: 5
+
+Instance 1614:
+	# cbWAXps: 6
+	Smallest size: 4
+	# nec: 3
+	# not nec: 3
+	# rel: 5
+
+Instance 1615:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1616:
+	# cbWAXps: 5
+	Smallest size: 5
+	# nec: 2
+	# not nec: 4
+	# rel: 6
+
+Instance 1617:
+	# cbWAXps: 9
+	Smallest size: 4
+	# nec: 2
+	# not nec: 4
+	# rel: 6
+
+Instance 1618:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1619:
+	# cbWAXps: 7
+	Smallest size: 4
+	# nec: 2
+	# not nec: 4
+	# rel: 6
+
+Instance 1620:
+	# cbWAXps: 9
+	Smallest size: 4
+	# nec: 2
+	# not nec: 4
+	# rel: 6
+
+Instance 1621:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 1622:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1623:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1624:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 1625:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1626:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1627:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 1628:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1629:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1630:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1631:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 1632:
+	# cbWAXps: 12
+	Smallest size: 3
+	# nec: 2
+	# not nec: 4
+	# rel: 4
+
+Instance 1633:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1634:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 1635:
+	# cbWAXps: 12
+	Smallest size: 3
+	# nec: 2
+	# not nec: 4
+	# rel: 4
+
+Instance 1636:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1637:
+	# cbWAXps: 8
+	Smallest size: 4
+	# nec: 2
+	# not nec: 4
+	# rel: 5
+
+Instance 1638:
+	# cbWAXps: 12
+	Smallest size: 3
+	# nec: 2
+	# not nec: 4
+	# rel: 4
+
+Instance 1639:
+	# cbWAXps: 36
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 4
+
+Instance 1640:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 1641:
+	# cbWAXps: 8
+	Smallest size: 3
+	# nec: 3
+	# not nec: 3
+	# rel: 3
+
+Instance 1642:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1643:
+	# cbWAXps: 2
+	Smallest size: 5
+	# nec: 5
+	# not nec: 1
+	# rel: 5
+
+Instance 1644:
+	# cbWAXps: 6
+	Smallest size: 4
+	# nec: 3
+	# not nec: 3
+	# rel: 5
+
+Instance 1645:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1646:
+	# cbWAXps: 6
+	Smallest size: 4
+	# nec: 3
+	# not nec: 3
+	# rel: 5
+
+Instance 1647:
+	# cbWAXps: 6
+	Smallest size: 4
+	# nec: 3
+	# not nec: 3
+	# rel: 5
+
+Instance 1648:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 1649:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1650:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1651:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 1652:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1653:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1654:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 1655:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1656:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1657:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1658:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 1659:
+	# cbWAXps: 12
+	Smallest size: 3
+	# nec: 2
+	# not nec: 4
+	# rel: 4
+
+Instance 1660:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1661:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 1662:
+	# cbWAXps: 12
+	Smallest size: 3
+	# nec: 2
+	# not nec: 4
+	# rel: 4
+
+Instance 1663:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1664:
+	# cbWAXps: 8
+	Smallest size: 4
+	# nec: 2
+	# not nec: 4
+	# rel: 5
+
+Instance 1665:
+	# cbWAXps: 12
+	Smallest size: 3
+	# nec: 2
+	# not nec: 4
+	# rel: 4
+
+Instance 1666:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1667:
+	# cbWAXps: 2
+	Smallest size: 5
+	# nec: 5
+	# not nec: 1
+	# rel: 5
+
+Instance 1668:
+	# cbWAXps: 6
+	Smallest size: 4
+	# nec: 3
+	# not nec: 3
+	# rel: 5
+
+Instance 1669:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1670:
+	# cbWAXps: 5
+	Smallest size: 5
+	# nec: 2
+	# not nec: 4
+	# rel: 6
+
+Instance 1671:
+	# cbWAXps: 9
+	Smallest size: 4
+	# nec: 2
+	# not nec: 4
+	# rel: 6
+
+Instance 1672:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1673:
+	# cbWAXps: 7
+	Smallest size: 4
+	# nec: 2
+	# not nec: 4
+	# rel: 6
+
+Instance 1674:
+	# cbWAXps: 9
+	Smallest size: 4
+	# nec: 2
+	# not nec: 4
+	# rel: 6
+
+Instance 1675:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 1676:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1677:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1678:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 1679:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1680:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1681:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 1682:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1683:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1684:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1685:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 1686:
+	# cbWAXps: 12
+	Smallest size: 3
+	# nec: 2
+	# not nec: 4
+	# rel: 4
+
+Instance 1687:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1688:
+	# cbWAXps: 6
+	Smallest size: 4
+	# nec: 2
+	# not nec: 4
+	# rel: 6
+
+Instance 1689:
+	# cbWAXps: 12
+	Smallest size: 3
+	# nec: 2
+	# not nec: 4
+	# rel: 4
+
+Instance 1690:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1691:
+	# cbWAXps: 8
+	Smallest size: 4
+	# nec: 2
+	# not nec: 4
+	# rel: 5
+
+Instance 1692:
+	# cbWAXps: 12
+	Smallest size: 3
+	# nec: 2
+	# not nec: 4
+	# rel: 4
+
+Instance 1693:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1694:
+	# cbWAXps: 2
+	Smallest size: 5
+	# nec: 5
+	# not nec: 1
+	# rel: 5
+
+Instance 1695:
+	# cbWAXps: 6
+	Smallest size: 4
+	# nec: 3
+	# not nec: 3
+	# rel: 5
+
+Instance 1696:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1697:
+	# cbWAXps: 5
+	Smallest size: 5
+	# nec: 2
+	# not nec: 4
+	# rel: 6
+
+Instance 1698:
+	# cbWAXps: 9
+	Smallest size: 4
+	# nec: 2
+	# not nec: 4
+	# rel: 6
+
+Instance 1699:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1700:
+	# cbWAXps: 7
+	Smallest size: 4
+	# nec: 2
+	# not nec: 4
+	# rel: 6
+
+Instance 1701:
+	# cbWAXps: 9
+	Smallest size: 4
+	# nec: 2
+	# not nec: 4
+	# rel: 6
+
+Instance 1702:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 1703:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1704:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1705:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 1706:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1707:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1708:
+	# cbWAXps: 48
+	Smallest size: 1
+	# nec: 0
+	# not nec: 6
+	# rel: 2
+
+Instance 1709:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1710:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1711:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1712:
+	# cbWAXps: 4
+	Smallest size: 4
+	# nec: 4
+	# not nec: 2
+	# rel: 4
+
+Instance 1713:
+	# cbWAXps: 12
+	Smallest size: 3
+	# nec: 2
+	# not nec: 4
+	# rel: 4
+
+Instance 1714:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1715:
+	# cbWAXps: 6
+	Smallest size: 4
+	# nec: 2
+	# not nec: 4
+	# rel: 6
+
+Instance 1716:
+	# cbWAXps: 12
+	Smallest size: 3
+	# nec: 2
+	# not nec: 4
+	# rel: 4
+
+Instance 1717:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1718:
+	# cbWAXps: 8
+	Smallest size: 4
+	# nec: 2
+	# not nec: 4
+	# rel: 5
+
+Instance 1719:
+	# cbWAXps: 12
+	Smallest size: 3
+	# nec: 2
+	# not nec: 4
+	# rel: 4
+
+Instance 1720:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1721:
+	# cbWAXps: 2
+	Smallest size: 5
+	# nec: 5
+	# not nec: 1
+	# rel: 5
+
+Instance 1722:
+	# cbWAXps: 6
+	Smallest size: 4
+	# nec: 3
+	# not nec: 3
+	# rel: 5
+
+Instance 1723:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1724:
+	# cbWAXps: 5
+	Smallest size: 5
+	# nec: 2
+	# not nec: 4
+	# rel: 6
+
+Instance 1725:
+	# cbWAXps: 9
+	Smallest size: 4
+	# nec: 2
+	# not nec: 4
+	# rel: 6
+
+Instance 1726:
+	# cbWAXps: 32
+	Smallest size: 1
+	# nec: 1
+	# not nec: 5
+	# rel: 1
+
+Instance 1727:
+	# cbWAXps: 7
+	Smallest size: 4
+	# nec: 2
+	# not nec: 4
+	# rel: 6
+
+Instance 1728:
+	# cbWAXps: 9
+	Smallest size: 4
+	# nec: 2
+	# not nec: 4
+	# rel: 6
+
