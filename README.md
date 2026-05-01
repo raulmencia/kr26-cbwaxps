@@ -2,7 +2,7 @@
 
 ## Authors
 
-*   **Carlos Mencía**¹ (✉️ menciacarlos@uniovi.es)
+*   **Carlos Mencía**¹
 *   **Ramon Béjar**²
 *   **Raúl Mencía**¹
 *   **Joao Marques-Silva**³
@@ -30,6 +30,7 @@ Contains the benchmark datasets used in our experiments:
 *   `corral` (de-duplicated)
 *   `mux6` (de-duplicated)
 *   `zoo` (de-duplicated)
+Note: The original datasets belong to the UCI ML repository.
 
 ### 2. `/fixed-sample-analysis`
 Contains the experimental results for the "Fixed-Sample Analysis" section of the paper. For each dataset, we provide the following metrics for every explained instance:
@@ -46,6 +47,8 @@ These files cover percentages from 5% to 100% (in 5% increments) and contain:
 *   **Metrics:** For each explained instance:
     *   Size of the smallest **cbWAXp**.
     *   Count of **necessary**, **not necessary**, and **relevant but not necessary** features identified.
+
+Note about the results files: In the files, 'Instance i' corresponds to the i-th row of the corresponding dataset (starting at 1 and omitting the header).
 
 ## 📄 License
 
