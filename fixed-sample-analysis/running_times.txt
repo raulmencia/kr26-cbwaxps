@@ -1,0 +1,11 @@
+
+Time taken to enumerate all cbWAXps and identify necessary and relevant features over the entire datasets (in seconds):
+zoo: 0.027
+kvk: 6791.822
+car: 376.157
+
+
+On average (per instance, in seconds):
+zoo: 0.00045
+kvk: 2.12510
+car: 0.21768
