@@ -39,6 +39,8 @@ Contains the experimental results for the "Fixed-Sample Analysis" section of the
 *   Size of the smallest **cbWAXp**.
 *   Number of **necessary**, **not necessary**, and **relevant** features found.
 
+The directory also contains a file reporting running times.
+
 ### 3. `/evolution-under-sample-expansion`
 Contains the data for the "Evolution Under Sample Expansion" section. For each dataset and expansion stage, there is a specific file named as follows:  
 `[dataset_name]_[percentage_of_instances_to_explain]_[percentage_of_instances_in_sample].txt`
